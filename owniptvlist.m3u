@@ -4580,21 +4580,24 @@ http://45.173.75.4:2061/play/a09c
 
 
 
+*********** BiGBoY ***************
+
+#EXTINF:-1 tvg-id="BiGBoY" tvg-logo="https://toppng.com/uploads/preview/xxx-energy-drink-vector-logo-free-download-11574006408uhlctspwza.png" group-title="BiGBoY", Neco
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+
+
+
 
 *********** CONVERGE *************
 
 #EXTINF:-1 group-logo="https://i.imgur.com/S3WUI7k.png"
 
 
-
-*********** BiGBoY ***************
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BiGBoY",xxx
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
 
 
 ******** Radio Station *********
