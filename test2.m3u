@@ -1,231 +1,670 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1" tvg-logo="https://live.fanmingming.cn/tv/https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1.png",https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png"We need donations to maintain the server! | サーバー維持のため寄付募集中！
-#EXTINF:-1 tvg-name="Donate/寄付: https://ko-fi.com/dinhluong" tvg-logo="https://live.fanmingming.cn/tv/Donate/寄付: https://ko-fi.com/dinhluong.png",Donate/寄付: https://ko-fi.com/dinhluong
-https://vn.utako.moe/test/intro.mp4/index.m3u8
-#EXTINF:-1 tvg-name="Please refrain from re-sharing those URLs! Read github for details." tvg-logo="https://live.fanmingming.cn/tv/Please refrain from re-sharing those URLs! Read github for details..png",Please refrain from re-sharing those URLs! Read github for details.
-https://vn.utako.moe/test/intro.mp4/index.m3u8
-#EXTINF:-1 tvg-name="「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME" tvg-logo="https://live.fanmingming.cn/tv/「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME.png",「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
-https://vn.utako.moe/test/intro.mp4/index.m3u8
-#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.cn/tv/NHK G.png",NHK G
-https://vn.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-name="NHK E" tvg-logo="https://live.fanmingming.cn/tv/NHK E.png",NHK E
-https://vn.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://live.fanmingming.cn/tv/NTV.png",NTV
-https://vn.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
-https://vn.utako.moe/TBS/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV.png",Fuji TV
-https://vn.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi.png",TV Asahi
-https://vn.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://live.fanmingming.cn/tv/TV Tokyo.png",TV Tokyo
-https://vn.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX1.png",TOKYO MX1
-https://vn.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX2.png",TOKYO MX2
-https://vn.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.cn/tv/NHK G.png",NHK G
-https://us.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-name="NHK E" tvg-logo="https://live.fanmingming.cn/tv/NHK E.png",NHK E
-https://us.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://live.fanmingming.cn/tv/NTV.png",NTV
-https://us.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
-https://us.utako.moe/TBS/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV.png",Fuji TV
-https://us.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi.png",TV Asahi
-https://us.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://live.fanmingming.cn/tv/TV Tokyo.png",TV Tokyo
-https://us.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX1.png",TOKYO MX1
-https://us.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 tvg-name="MBS" tvg-logo="https://live.fanmingming.cn/tv/MBS.png",MBS
-https://vn.utako.moe/mbs/index.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://live.fanmingming.cn/tv/ABC.png",ABC
-https://vn.utako.moe/abc/index.m3u8
-#EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://live.fanmingming.cn/tv/TV Osaka.png",TV Osaka
-https://vn.utako.moe/tvo/index.m3u8
-#EXTINF:-1 tvg-name="Kansai TV" tvg-logo="https://live.fanmingming.cn/tv/Kansai TV.png",Kansai TV
-https://vn.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-name="ytv" tvg-logo="https://live.fanmingming.cn/tv/ytv.png",ytv
-https://vn.utako.moe/ytv/index.m3u8
-#EXTINF:-1 tvg-name="KBS" tvg-logo="https://live.fanmingming.cn/tv/KBS.png",KBS
-https://vn.utako.moe/kbs/index.m3u8
-#EXTINF:-1 tvg-name="SUN" tvg-logo="https://live.fanmingming.cn/tv/SUN.png",SUN
-https://vn.utako.moe/suntv/index.m3u8
-#EXTINF:-1 tvg-name="MBS" tvg-logo="https://live.fanmingming.cn/tv/MBS.png",MBS
-https://us.utako.moe/mbs/index.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://live.fanmingming.cn/tv/ABC.png",ABC
-https://us.utako.moe/abc/index.m3u8
-#EXTINF:-1 tvg-name="TV Osaka" tvg-logo="https://live.fanmingming.cn/tv/TV Osaka.png",TV Osaka
-https://us.utako.moe/tvo/index.m3u8
-#EXTINF:-1 tvg-name="Kansai TV" tvg-logo="https://live.fanmingming.cn/tv/Kansai TV.png",Kansai TV
-https://us.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-name="ytv" tvg-logo="https://live.fanmingming.cn/tv/ytv.png",ytv
-https://us.utako.moe/ytv/index.m3u8
-#EXTINF:-1 tvg-name="KBS" tvg-logo="https://live.fanmingming.cn/tv/KBS.png",KBS
-https://us.utako.moe/kbs/index.m3u8
-#EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://live.fanmingming.cn/tv/NHK BS.png",NHK BS
-https://vn.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
-https://vn.utako.moe/Animax/index.m3u8
-#EXTINF:-1 tvg-name="BS10" tvg-logo="https://live.fanmingming.cn/tv/BS10.png",BS10
-https://vn.utako.moe/bs10/index.m3u8
-#EXTINF:-1 tvg-name="BS11" tvg-logo="https://live.fanmingming.cn/tv/BS11.png",BS11
-https://vn.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-name="BS12" tvg-logo="https://live.fanmingming.cn/tv/BS12.png",BS12
-https://vn.utako.moe/bs12/index.m3u8
-#EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://live.fanmingming.cn/tv/NHK BS4K.png",NHK BS4K
-https://vn.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-name="BS NTV" tvg-logo="https://live.fanmingming.cn/tv/BS NTV.png",BS NTV
-https://vn.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://live.fanmingming.cn/tv/BS Asahi.png",BS Asahi
-https://vn.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://live.fanmingming.cn/tv/BS TBS.png",BS TBS
-https://vn.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://live.fanmingming.cn/tv/BS TV Tokyo.png",BS TV Tokyo
-https://vn.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://live.fanmingming.cn/tv/BS Fuji.png",BS Fuji
-https://vn.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo 4K" tvg-logo="https://live.fanmingming.cn/tv/BS TV Tokyo 4K.png",BS TV Tokyo 4K
-https://vn.utako.moe/bstx4k/index.m3u8
-#EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Prime.png",WOWOW Prime
-https://vn.utako.moe/wprime/index.m3u8
-#EXTINF:-1 tvg-name="WOWOW Cinema" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Cinema.png",WOWOW Cinema
-https://vn.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Live.png",WOWOW Live
-https://vn.utako.moe/wlive/index.m3u8
-#EXTINF:-1 tvg-name="BS 10 Star Channel" tvg-logo="https://live.fanmingming.cn/tv/BS 10 Star Channel.png",BS 10 Star Channel
-https://vn.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://live.fanmingming.cn/tv/JSport 1.png",JSport 1
-https://vn.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://live.fanmingming.cn/tv/JSport 2.png",JSport 2
-https://vn.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://live.fanmingming.cn/tv/JSport 3.png",JSport 3
-https://vn.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://live.fanmingming.cn/tv/JSport 4.png",JSport 4
-https://vn.utako.moe/js4/index.m3u8
-#EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://live.fanmingming.cn/tv/Green Channel.png",Green Channel
-https://vn.utako.moe/green/index.m3u8
-#EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://live.fanmingming.cn/tv/Gaora Sports.png",Gaora Sports
-https://vn.utako.moe/gaora/index.m3u8
-#EXTINF:-1 tvg-name="Sky A" tvg-logo="https://live.fanmingming.cn/tv/Sky A.png",Sky A
-https://vn.utako.moe/skya/index.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.cn/tv/NHK World Japan.png",NHK World Japan
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-name="CGNTV Japan" tvg-logo="https://live.fanmingming.cn/tv/CGNTV Japan.png",CGNTV Japan
-https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://live.fanmingming.cn/tv/QVC.png",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-name="NHK World Premium" tvg-logo="https://live.fanmingming.cn/tv/NHK World Premium.png",NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-name="Nihon Eiga Senmon" tvg-logo="https://live.fanmingming.cn/tv/Nihon Eiga Senmon.png",Nihon Eiga Senmon
-https://us.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://live.fanmingming.cn/tv/Space Shower TV.png",Space Shower TV
-https://us.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.cn/tv/MTV.png",MTV
-https://us.utako.moe/mtv/index.m3u8
-#EXTINF:-1 tvg-name="AT-X" tvg-logo="https://live.fanmingming.cn/tv/AT-X.png",AT-X
-https://vn.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://live.fanmingming.cn/tv/Disney Channel.png",Disney Channel
-https://us.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Japan" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network Japan.png",Cartoon Network Japan
-https://us.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-name="Nittele G+" tvg-logo="https://live.fanmingming.cn/tv/Nittele G+.png",Nittele G+
-https://us.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 tvg-name="Family Gekijyo" tvg-logo="https://live.fanmingming.cn/tv/Family Gekijyo.png",Family Gekijyo
-https://us.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 tvg-name="Mondo TV" tvg-logo="https://live.fanmingming.cn/tv/Mondo TV.png",Mondo TV
-https://us.utako.moe/mondo/index.m3u8
-#EXTINF:-1 tvg-name="TBS Channel 1" tvg-logo="https://live.fanmingming.cn/tv/TBS Channel 1.png",TBS Channel 1
-https://us.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 tvg-name="TBS Channel 2" tvg-logo="https://live.fanmingming.cn/tv/TBS Channel 2.png",TBS Channel 2
-https://us.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi Channel 1" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi Channel 1.png",TV Asahi Channel 1
-https://us.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi Channel 2" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi Channel 2.png",TV Asahi Channel 2
-https://us.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV ONE" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV ONE.png",Fuji TV ONE
-https://us.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV TWO" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV TWO.png",Fuji TV TWO
-https://us.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV NEXT.png",Fuji TV NEXT
-https://us.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://live.fanmingming.cn/tv/Neco Channel.png",Neco Channel
-https://us.utako.moe/neco/index.m3u8
-#EXTINF:-1 tvg-name="Dlife" tvg-logo="https://live.fanmingming.cn/tv/Dlife.png",Dlife
-https://us.utako.moe/dlife/index.m3u8
-#EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://live.fanmingming.cn/tv/Toei Channel.png",Toei Channel
-https://us.utako.moe/toei/index.m3u8
-#EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://live.fanmingming.cn/tv/Fighting TV Samurai.png",Fighting TV Samurai
-https://us.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 tvg-name="Entermei Tele" tvg-logo="https://live.fanmingming.cn/tv/Entermei Tele.png",Entermei Tele
-https://us.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 tvg-name="Sport Live Plus" tvg-logo="https://live.fanmingming.cn/tv/Sport Live Plus.png",Sport Live Plus
-https://us.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://live.fanmingming.cn/tv/Home Drama Channel.png",Home Drama Channel
-https://us.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 tvg-name="Channel Ginga" tvg-logo="https://live.fanmingming.cn/tv/Channel Ginga.png",Channel Ginga
-https://us.utako.moe/gingach/index.m3u8
-#EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://live.fanmingming.cn/tv/Tabi Channel.png",Tabi Channel
-https://us.utako.moe/tabi/index.m3u8
-#EXTINF:-1 tvg-name="Pigoo" tvg-logo="https://live.fanmingming.cn/tv/Pigoo.png",Pigoo
-https://us.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 tvg-name="V Paradise" tvg-logo="https://live.fanmingming.cn/tv/V Paradise.png",V Paradise
-https://us.utako.moe/v_paradise/index.m3u8
-#EXTINF:-1 tvg-name="Nihon Eiga Senmon" tvg-logo="https://live.fanmingming.cn/tv/Nihon Eiga Senmon.png",Nihon Eiga Senmon
-https://vn.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 tvg-name="Space Shower TV" tvg-logo="https://live.fanmingming.cn/tv/Space Shower TV.png",Space Shower TV
-https://vn.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.cn/tv/MTV.png",MTV
-https://vn.utako.moe/mtv/index.m3u8
-#EXTINF:-1 tvg-name="AT-X" tvg-logo="https://live.fanmingming.cn/tv/AT-X.png",AT-X
-https://vn.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://live.fanmingming.cn/tv/Disney Channel.png",Disney Channel
-https://vn.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Japan" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network Japan.png",Cartoon Network Japan
-https://vn.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-name="Nittele G+" tvg-logo="https://live.fanmingming.cn/tv/Nittele G+.png",Nittele G+
-https://vn.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 tvg-name="Family Gekijyo" tvg-logo="https://live.fanmingming.cn/tv/Family Gekijyo.png",Family Gekijyo
-https://vn.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 tvg-name="Mondo TV" tvg-logo="https://live.fanmingming.cn/tv/Mondo TV.png",Mondo TV
-https://vn.utako.moe/mondo/index.m3u8
-#EXTINF:-1 tvg-name="TBS Channel 1" tvg-logo="https://live.fanmingming.cn/tv/TBS Channel 1.png",TBS Channel 1
-https://vn.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 tvg-name="TBS Channel 2" tvg-logo="https://live.fanmingming.cn/tv/TBS Channel 2.png",TBS Channel 2
-https://vn.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi Channel 1" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi Channel 1.png",TV Asahi Channel 1
-https://vn.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 tvg-name="TV Asahi Channel 2" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi Channel 2.png",TV Asahi Channel 2
-https://vn.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV ONE" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV ONE.png",Fuji TV ONE
-https://vn.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV TWO" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV TWO.png",Fuji TV TWO
-https://vn.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 tvg-name="Fuji TV NEXT" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV NEXT.png",Fuji TV NEXT
-https://vn.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://live.fanmingming.cn/tv/Neco Channel.png",Neco Channel
-https://vn.utako.moe/neco/index.m3u8
-#EXTINF:-1 tvg-name="Dlife" tvg-logo="https://live.fanmingming.cn/tv/Dlife.png",Dlife
-https://vn.utako.moe/dlife/index.m3u8
-#EXTINF:-1 tvg-name="Toei Channel" tvg-logo="https://live.fanmingming.cn/tv/Toei Channel.png",Toei Channel
-https://vn.utako.moe/toei/index.m3u8
-#EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://live.fanmingming.cn/tv/Fighting TV Samurai.png",Fighting TV Samurai
-https://vn.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 tvg-name="Entermei Tele" tvg-logo="https://live.fanmingming.cn/tv/Entermei Tele.png",Entermei Tele
-https://vn.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 tvg-name="Sport Live Plus" tvg-logo="https://live.fanmingming.cn/tv/Sport Live Plus.png",Sport Live Plus
-https://vn.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 tvg-name="Home Drama Channel" tvg-logo="https://live.fanmingming.cn/tv/Home Drama Channel.png",Home Drama Channel
-https://vn.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 tvg-name="Channel Ginga" tvg-logo="https://live.fanmingming.cn/tv/Channel Ginga.png",Channel Ginga
-https://vn.utako.moe/gingach/index.m3u8
-#EXTINF:-1 tvg-name="Tabi Channel" tvg-logo="https://live.fanmingming.cn/tv/Tabi Channel.png",Tabi Channel
-https://vn.utako.moe/tabi/index.m3u8
-#EXTINF:-1 tvg-name="Pigoo" tvg-logo="https://live.fanmingming.cn/tv/Pigoo.png",Pigoo
-https://vn.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 tvg-name="V Paradise" tvg-logo="https://live.fanmingming.cn/tv/V Paradise.png",V Paradise
-https://vn.utako.moe/v_paradise/index.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Action Hollywood Movies (Free)
+https://mc-v27peft59i.bunny.run/channel/ACTM/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Al Jazeera English
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CJAZ
+https://mc-v27peft59i.bunny.run/channel/CJAZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Anhui TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=AHTV
+https://mc-v27peft59i.bunny.run/channel/AHTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CANI
+https://mc-v27peft59i.bunny.run/channel/CANI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Arirang TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CARI
+https://mc-v27peft59i.bunny.run/channel/CARI/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Asian Drama
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CTVS
+https://mc-v27peft59i.bunny.run/channel/CTVS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CAXN
+https://mc-v27peft59i.bunny.run/channel/CAXN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Beijing TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=BJTV
+https://mc-v27peft59i.bunny.run/channel/BJTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CCCM
+https://mc-v27peft59i.bunny.run/channel/CCCM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CCTV Chinese Opera (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CCO
+https://mc-v27peft59i.bunny.run/channel/CCO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CCTV Entertainment (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CCE
+https://mc-v27peft59i.bunny.run/channel/CCE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CCTV-1 (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CC1
+https://mc-v27peft59i.bunny.run/channel/CC1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CCTV-4 (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CC4
+https://mc-v27peft59i.bunny.run/channel/CC4/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CGTN Documentary (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CGD
+https://mc-v27peft59i.bunny.run/channel/CGD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", CGTN English (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CGE
+https://mc-v27peft59i.bunny.run/channel/CGE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Channel NewsAsia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CCNA
+https://mc-v27peft59i.bunny.run/channel/CCNA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", China Movie Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CMC
+https://mc-v27peft59i.bunny.run/channel/CMC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Chinese Drama
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CDR3
+https://mc-v27peft59i.bunny.run/channel/CDR3/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Chinese Opera Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CCOC
+https://mc-v27peft59i.bunny.run/channel/CCOC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Classic Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CCLM
+https://mc-v27peft59i.bunny.run/channel/CCLM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Concerto (Free)
+https://mc-v27peft59i.bunny.run/channel/CONC/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Creation TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CRE
+https://mc-v27peft59i.bunny.run/channel/CRE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Docsville (Free)
+https://mc-v27peft59i.bunny.run/channel/DOCV/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Dragon TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=DTV
+https://mc-v27peft59i.bunny.run/channel/DTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", DW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CDW1
+https://mc-v27peft59i.bunny.run/channel/CDW1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Entertainment News (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CTVE
+https://mc-v27peft59i.bunny.run/channel/CTVE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", FashionBox
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=FBX
+https://mc-v27peft59i.bunny.run/channel/FBX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", France 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CF24
+https://mc-v27peft59i.bunny.run/channel/CF24/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Fujian TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=FJTV
+https://mc-v27peft59i.bunny.run/channel/FJTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Global Trekker
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SMS
+https://mc-v27peft59i.bunny.run/channel/SMS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Globetrotter (Free)
+https://mc-v27peft59i.bunny.run/channel/GLBT/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Golden Chinese Drama
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=TVO
+https://mc-v27peft59i.bunny.run/channel/TVO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Golden Jade (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=TVG
+https://mc-v27peft59i.bunny.run/channel/TVG/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", GRT Greater Bay Area TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=GBTV
+https://mc-v27peft59i.bunny.run/channel/GBTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Guangxi TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=GXTV
+https://mc-v27peft59i.bunny.run/channel/GXTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Hunan TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=HNTV
+https://mc-v27peft59i.bunny.run/channel/HNTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Jade (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=J
+https://mc-v27peft59i.bunny.run/channel/J/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Jade(UHD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=JUHD
+https://mc-v27peft59i.bunny.run/channel/JUHD/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Jiangsu TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=JSTV
+https://mc-v27peft59i.bunny.run/channel/JSTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", KIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CKIX
+https://mc-v27peft59i.bunny.run/channel/CKIX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Love Nature 4K
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=LN4
+https://mc-v27peft59i.bunny.run/channel/LN4/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Love Nature HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=LNH
+https://mc-v27peft59i.bunny.run/channel/LNH/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Mei Ah Movie Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CMAM
+https://mc-v27peft59i.bunny.run/channel/CMAM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Mezzo Live HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CMEZ
+https://mc-v27peft59i.bunny.run/channel/CMEZ/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER 18
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=C18
+https://mc-v27peft59i.bunny.run/channel/C18/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER Live Soccer 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=EVT2
+https://mc-v27peft59i.bunny.run/channel/EVT2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER Live Soccer 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=EVT3
+https://mc-v27peft59i.bunny.run/channel/EVT3/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER Live Soccer 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=EVT4
+https://mc-v27peft59i.bunny.run/channel/EVT4/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER Live Soccer 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=EVT5
+https://mc-v27peft59i.bunny.run/channel/EVT5/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER Live Soccer 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=EVT6
+https://mc-v27peft59i.bunny.run/channel/EVT6/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", myTV SUPER Live Soccer 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=EVT7
+https://mc-v27peft59i.bunny.run/channel/EVT7/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 800
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL00
+https://mc-v27peft59i.bunny.run/channel/OL00/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 801
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL01
+https://mc-v27peft59i.bunny.run/channel/OL01/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 802
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL02
+https://mc-v27peft59i.bunny.run/channel/OL02/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 803
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL03
+https://mc-v27peft59i.bunny.run/channel/OL03/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 804
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL04
+https://mc-v27peft59i.bunny.run/channel/OL04/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 805
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL05
+https://mc-v27peft59i.bunny.run/channel/OL05/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 806
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL06
+https://mc-v27peft59i.bunny.run/channel/OL06/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", National Games 818 (4-in-1 801-804)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=OL07
+https://mc-v27peft59i.bunny.run/channel/OL07/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", NewsWorld (Free)
+https://mc-v27peft59i.bunny.run/channel/NSWD/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", NHK World-Japan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CNHK
+https://mc-v27peft59i.bunny.run/channel/CNHK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CNIJR
+https://mc-v27peft59i.bunny.run/channel/CNIJR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CNIKO
+https://mc-v27peft59i.bunny.run/channel/CNIKO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", NOW 70s (Free)
+https://mc-v27peft59i.bunny.run/channel/NOW7/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", NOW 80s (Free)
+https://mc-v27peft59i.bunny.run/channel/NOW8/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", NOW 90s00s (Free)
+https://mc-v27peft59i.bunny.run/channel/NOW9/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", NOW ROCK (Free)
+https://mc-v27peft59i.bunny.run/channel/NOWR/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Pearl (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=P
+https://mc-v27peft59i.bunny.run/channel/P/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Pet Club TV (Free)
+https://mc-v27peft59i.bunny.run/channel/PETC/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Phoenix Chinese Channel (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=PCC
+https://mc-v27peft59i.bunny.run/channel/PCC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Phoenix Hong Kong Channel (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=PHK
+https://mc-v27peft59i.bunny.run/channel/PHK/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Phoenix InfoNews Channel (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=PIN
+https://mc-v27peft59i.bunny.run/channel/PIN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", PopC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=POPC
+https://mc-v27peft59i.bunny.run/channel/POPC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Pulse Documentaries (Free)
+https://mc-v27peft59i.bunny.run/channel/PULS/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Rialto Classic Movies (RCM) (Free)
+https://mc-v27peft59i.bunny.run/channel/RCM/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", ROCK Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CRTX
+https://mc-v27peft59i.bunny.run/channel/CRTX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", ROCK Entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CRTE
+https://mc-v27peft59i.bunny.run/channel/CRTE/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", ROCK Extreme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=RKEX
+https://mc-v27peft59i.bunny.run/channel/RKEX/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Shenzhen TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SZTV
+https://mc-v27peft59i.bunny.run/channel/SZTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER EYT (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SEYT
+https://mc-v27peft59i.bunny.run/channel/SEYT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Food (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SFOO
+https://mc-v27peft59i.bunny.run/channel/SFOO/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER FREE (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CWIN
+https://mc-v27peft59i.bunny.run/channel/CWIN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Goldies (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SGOL
+https://mc-v27peft59i.bunny.run/channel/SGOL/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Kids Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=KID
+https://mc-v27peft59i.bunny.run/channel/KID/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Music (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SMUS
+https://mc-v27peft59i.bunny.run/channel/SMUS/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Sitcom (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SSIT
+https://mc-v27peft59i.bunny.run/channel/SSIT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Sitcom2 (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SDOC
+https://mc-v27peft59i.bunny.run/channel/SDOC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Sports (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SSPT
+https://mc-v27peft59i.bunny.run/channel/SSPT/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Travel (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=STRA
+https://mc-v27peft59i.bunny.run/channel/STRA/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER Trio (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=SVAR
+https://mc-v27peft59i.bunny.run/channel/SVAR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", SUPER TV Movies (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=STVM
+https://mc-v27peft59i.bunny.run/channel/STVM/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Test Channel
+https://mc-v27peft59i.bunny.run/channel/TEST/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Thrill
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CTHR
+https://mc-v27peft59i.bunny.run/channel/CTHR/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TRACE Sport Stars (Free)
+https://mc-v27peft59i.bunny.run/channel/TRSP/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TRACE Urban (Free)
+https://mc-v27peft59i.bunny.run/channel/TRUR/hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TVB Classic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CTVC
+https://mc-v27peft59i.bunny.run/channel/CTVC/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TVB News Channel (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=C
+https://mc-v27peft59i.bunny.run/channel/C/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TVB Plus (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=B
+https://mc-v27peft59i.bunny.run/channel/B/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TVBS Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CTS1
+https://mc-v27peft59i.bunny.run/channel/CTS1/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", TVBS News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CTSN
+https://mc-v27peft59i.bunny.run/channel/CTSN/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", tvN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=CJTV
+https://mc-v27peft59i.bunny.run/channel/CJTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Yunnan TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=YNTV
+https://mc-v27peft59i.bunny.run/channel/YNTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", Zhejiang TV (Free)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=ZJTV
+https://mc-v27peft59i.bunny.run/channel/ZJTV/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRAb32p.png" group-title="MYTVSUPER" group-logo="https://i.imgur.com/bRAb32p.png", ZooMoo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-v27peft59i.bunny.run/license?id=ZOO
+https://mc-v27peft59i.bunny.run/channel/ZOO/master.mpd
+
