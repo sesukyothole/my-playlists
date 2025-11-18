@@ -4582,8 +4582,6 @@ http://45.173.75.4:2061/play/a09c
 
 *********** BiGBoY ***************
 
-#EXTINF:-1 group-logo="https://toppng.com/uploads/preview/xxx-energy-drink-vector-logo-free-download-11574006408uhlctspwza.png"
-
 #EXTINF:-1 tvg-id="BiGBoY" tvg-logo="https://help.unext.jp/images/channels/mensneco.png" group-title="BiGBoY", Neco
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
