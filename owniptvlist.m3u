@@ -4582,7 +4582,7 @@ http://45.173.75.4:2061/play/a09c
 
 *********** BiGBoY ***************
 
-#EXTINF:-1 tvg-id="BiGBoY" tvg-logo="https://help.unext.jp/images/channels/mensneco.png" group-title="BiGBoY", Neco
+#EXTINF:-1 tvg-id="BiGBoY" tvg-logo="https://help.unext.jp/images/channels/mensneco.png" group-title="BiGBoY", MensNeco
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
