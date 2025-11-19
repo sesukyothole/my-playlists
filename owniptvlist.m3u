@@ -1,7 +1,7 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: Alien_X"
 
 
-**********Cignal-TV**********
+################## Cignal-TV ##################
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
@@ -551,8 +551,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_720p.m3u8
 
 
-
-**********World-TV**********
+############### World-TV ################
 
 #EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
 
@@ -1167,7 +1166,7 @@ https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
 
 
-####################### JAPAN CH #######################
+####################### JAPAN MAIN CH #######################
 
 #EXTGRP:JAPAN MAIN CH
 
@@ -1365,6 +1364,208 @@ https://nl00.utako.moe/v_paradise/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/KCTV_Logo.png/320px-KCTV_Logo.png" group-title="JAPAN MAIN CH",KCTV
 https://tv.intchoson.com/kctv/main_stream.m3u8
+
+
+
+####################### JAPAN RE CH #######################
+
+#PLAYLIST:JAPAN RE CH
+
+#EXTINF:-1 tvg-id="BSFuji" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BS_Fuji_logo.svg/320px-BS_Fuji_logo.svg.png" group-title="JAPAN RE CH",BS Fuji
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fbsfuji%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="BSNittele" tvg-name="BS Nittele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="JAPAN RE CH",BS Nittele
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fbsp4k%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="BSTBS" tvg-name="BS TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/BS-TBS_logo.svg/350px-BS-TBS_logo.svg.png" group-title="JAPAN RE CH",BS TBS
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fbstbs%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="BSTVTokyo" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BS_TV_Tokyo_Logo.svg/222px-BS_TV_Tokyo_Logo.svg.png" group-title="JAPAN RE CH",BS TV Tokyo
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fbstvtokyo%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="BS10Premium" tvg-name="BS10 Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Japan_BS10_logo.svg/512px-Japan_BS10_logo.svg.png" group-title="JAPAN RE CH",BS10 Premium
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fbs10_star%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="BS11" tvg-name="BS11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BS11_logo.svg/240px-BS11_logo.svg.png" group-title="JAPAN RE CH",BS11
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2FBS11%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NHKBS" tvg-name="NHK BS" tvg-logo="https://i.imgur.com/g8o472E.png" group-title="JAPAN RE CH",NHK BS
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2FNHK_BS%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NHKBS4K" tvg-name="NHK BS4K" tvg-logo="https://i.imgur.com/g8o472E.png" group-title="JAPAN RE CH",NHK BS4K
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fbsp4k%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="WOWOWPrime" tvg-name="WOWOW Prime" tvg-logo="https://i.imgur.com/3D1n1zQ.png" group-title="JAPAN RE CH",WOWOW Prime
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fwprime%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="WOWOWCinema" tvg-name="WOWOW Cinema" tvg-logo="https://i.imgur.com/3D1n1zQ.png" group-title="JAPAN RE CH",WOWOW Cinema
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fwcinema%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="MondoTV" tvg-name="Mondo TV" tvg-logo="https://i.imgur.com/H2S97Tf.png" group-title="JAPAN RE CH",Mondo TV
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fmondo%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="WOWOWLive" tvg-name="WOWOW Live" tvg-logo="https://i.imgur.com/3D1n1zQ.png" group-title="JAPAN RE CH",WOWOW Live
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fwlive%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="JSports1" tvg-name="JSports 1" tvg-logo="https://i.imgur.com/G5c9T2Q.png" group-title="JAPAN RE CH",JSports 1
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fjs1%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="JSports2" tvg-name="JSports 2" tvg-logo="https://i.imgur.com/G5c9T2Q.png" group-title="JAPAN RE CH",JSports 2
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fjs2%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="JSports3" tvg-name="JSports 3" tvg-logo="https://i.imgur.com/G5c9T2Q.png" group-title="JAPAN RE CH",JSports 3
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fjs3%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="JSports4" tvg-name="JSports 4" tvg-logo="https://i.imgur.com/G5c9T2Q.png" group-title="JAPAN RE CH",JSports 4
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fjs4%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NitteleGPlus" tvg-name="Nittele G+" tvg-logo="https://i.imgur.com/u7yT0qQ.png" group-title="JAPAN RE CH",Nittele G+
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fntvgplus%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="SportLivePlus" tvg-name="Sport Live Plus" tvg-logo="https://i.imgur.com/W2tL4bZ.png" group-title="JAPAN RE CH",Sport Live Plus
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fsport_live_plus%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="FightingTVSamurai" tvg-name="Fighting TV Samurai" tvg-logo="https://i.imgur.com/Q2yD7fN.png" group-title="JAPAN RE CH",Fighting TV Samurai
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ffighting_tv%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NHKGeneralTV" tvg-name="NHK General TV" tvg-logo="https://i.imgur.com/g8o472E.png" group-title="JAPAN RE CH",NHK General TV
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FNHK_G%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NHKEducationalTV" tvg-name="NHK Educational TV" tvg-logo="https://i.imgur.com/g8o472E.png" group-title="JAPAN RE CH",NHK Educational TV
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FNHK_E%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/u7yT0qQ.png" group-title="JAPAN RE CH",NTV
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FNippon_TV%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.imgur.com/eQ4L2jG.png" group-title="JAPAN RE CH",TBS
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FTBS%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TBSChannel1" tvg-name="TBS Channel 1" tvg-logo="https://i.imgur.com/eQ4L2jG.png" group-title="JAPAN RE CH",TBS Channel 1
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ftbsch1%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TBSChannel2" tvg-name="TBS Channel 2" tvg-logo="https://i.imgur.com/eQ4L2jG.png" group-title="JAPAN RE CH",TBS Channel 2
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ftbsch2%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="FujiTV" tvg-name="Fuji TV" tvg-logo="https://i.imgur.com/J3tG0vA.png" group-title="JAPAN RE CH",Fuji TV
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FFuji_TV%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="FujiTVONE" tvg-name="Fuji TV ONE" tvg-logo="https://i.imgur.com/J3tG0vA.png" group-title="JAPAN RE CH",Fuji TV ONE
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ffuji_one%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="FujiTVTWO" tvg-name="Fuji TV TWO" tvg-logo="https://i.imgur.com/J3tG0vA.png" group-title="JAPAN RE CH",Fuji TV TWO
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ffuji_two%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="FujiTVNEXT" tvg-name="Fuji TV NEXT" tvg-logo="https://i.imgur.com/J3tG0vA.png" group-title="JAPAN RE CH",Fuji TV NEXT
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ffuji_next%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TVAsahi" tvg-name="TV Asahi" tvg-logo="https://i.imgur.com/P4q8y0H.png" group-title="JAPAN RE CH",TV Asahi
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FTV_Asahi%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TVAsahiChannel1" tvg-name="TV Asahi Channel 1" tvg-logo="https://i.imgur.com/P4q8y0H.png" group-title="JAPAN RE CH",TV Asahi Channel 1
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fex_ch1%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TVAsahiChannel2" tvg-name="TV Asahi Channel 2" tvg-logo="https://i.imgur.com/P4q8y0H.png" group-title="JAPAN RE CH",TV Asahi Channel 2
+https://jpterebimk1.ningningphcxd.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fex_ch2%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TVTokyo" tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/U8h5i2f.png" group-title="JAPAN RE CH",TV Tokyo
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FTV_Tokyo%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TOKYOMX1" tvg-name="TOKYO MX1" tvg-logo="https://i.imgur.com/X4yD1mP.png" group-title="JAPAN RE CH",TOKYO MX1
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FTokyo_MX1%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TOKYOMX2" tvg-name="TOKYO MX2" tvg-logo="https://i.imgur.com/X4yD1mP.png" group-title="JAPAN RE CH",TOKYO MX2
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2FTokyo_MX2%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="MBS" tvg-name="MBS" tvg-logo="https://i.imgur.com/3YtC4rQ.png" group-title="JAPAN RE CH",MBS
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Fmbs%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://i.imgur.com/G4f8R5h.png" group-title="JAPAN RE CH",ABC
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Fabc%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TVOsaka" tvg-name="TV Osaka" tvg-logo="https://i.imgur.com/L8p6Q2R.png" group-title="JAPAN RE CH",TV Osaka
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Ftvo%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="KansaiTV" tvg-name="Kansai TV" tvg-logo="https://i.imgur.com/F0v9V7u.png" group-title="JAPAN RE CH",Kansai TV
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Fkansaitv%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="ytv" tvg-name="ytv" tvg-logo="https://i.imgur.com/K1xT0qD.png" group-title="JAPAN RE CH",ytv
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Fytv%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="KBS" tvg-name="KBS" tvg-logo="https://i.imgur.com/F4g3R6t.png" group-title="JAPAN RE CH",KBS
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Fkbs%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="SUN" tvg-name="SUN" tvg-logo="https://i.imgur.com/M6w7V9S.png" group-title="JAPAN RE CH",SUN
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fus1001.utako.moe%2Fsuntv%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="GreenChannel" tvg-name="Green Channel" tvg-logo="https://i.imgur.com/Z1h4P8c.png" group-title="JAPAN RE CH",Green Channel
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fgreen%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://i.imgur.com/G9o4F3W.png" group-title="JAPAN RE CH",Animax
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2FAnimax%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="ATX" tvg-name="AT-X" tvg-logo="https://i.imgur.com/H6z5P4y.png" group-title="JAPAN RE CH",AT-X
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2FAT-X%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="DisneyChannelJapan" tvg-name="Disney Channel Japan" tvg-logo="https://i.imgur.com/Q9m1K8R.png" group-title="JAPAN RE CH",Disney Channel Japan
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fdisneychan%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="CartoonNetworkJapan" tvg-name="Cartoon Network Japan" tvg-logo="https://i.imgur.com/R3n7H0a.png" group-title="JAPAN RE CH",Cartoon Network Japan
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fcartoon_network%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/D0b2A5d.png" group-title="JAPAN RE CH",MTV
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fmtv%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="MusicONTV" tvg-name="Music ON TV" tvg-logo="https://i.imgur.com/G7j1P3w.png" group-title="JAPAN RE CH",Music ON TV
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fmusicon%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="KayoPops" tvg-name="Kayo Pops" tvg-logo="https://i.imgur.com/V2w5J8q.png" group-title="JAPAN RE CH",Kayo Pops
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fkayopops%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="SpaceShowerTV" tvg-name="Space Shower TV" tvg-logo="https://i.imgur.com/H0d8Q6c.png" group-title="JAPAN RE CH",Space Shower TV
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fspaceshower%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NihonEigaSenmon" tvg-name="Nihon Eiga Senmon" tvg-logo="https://i.imgur.com/X6f0Q9r.png" group-title="JAPAN RE CH",Nihon Eiga Senmon
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fnihoneiga%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="SkyA" tvg-name="Sky A" tvg-logo="https://i.imgur.com/B1c4R7p.png" group-title="JAPAN RE CH",Sky A
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fskya%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="GaoraSports" tvg-name="Gaora Sports" tvg-logo="https://i.imgur.com/F8s0K5Q.png" group-title="JAPAN RE CH",Gaora Sports
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fgaora%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="FamilyGekijyo" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/A4b2H1m.png" group-title="JAPAN RE CH",Family Gekijyo
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ffamilygeki%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="ChannelNECO" tvg-name="Channel NECO" tvg-logo="https://i.imgur.com/W2tL4bZ.png" group-title="JAPAN RE CH",Channel NECO
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fneco%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Dlife_logo.png" group-title="JAPAN RE CH",Dlife
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fdlife%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="ToeiChannel" tvg-name="Toei Channel" tvg-logo="https://i.imgur.com/P0e8K7f.png" group-title="JAPAN RE CH",Toei Channel
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ftoei%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="EntermeiTele" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/N7b5A0x.png" group-title="JAPAN RE CH",Entermei Tele
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fentermei_tele%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="HomeDramaChannel" tvg-name="Home Drama Channel" tvg-logo="https://i.imgur.com/K3f4V8a.png" group-title="JAPAN RE CH",Home Drama Channel
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fhomedrama%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="ChannelGinga" tvg-name="Channel Ginga" tvg-logo="https://i.imgur.com/D9f8R1a.png" group-title="JAPAN RE CH",Channel Ginga
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fgingach%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="TabiChannel" tvg-name="Tabi Channel" tvg-logo="https://i.imgur.com/V7c2N5s.png" group-title="JAPAN RE CH",Tabi Channel
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Ftabi%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="Pigoo" tvg-name="Pigoo" tvg-logo="https://i.imgur.com/W6c2A9p.png" group-title="JAPAN RE CH",Pigoo
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fpigoo%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="VParadise" tvg-name="V Paradise" tvg-logo="https://i.imgur.com/R8c3K5f.png" group-title="JAPAN RE CH",V Paradise
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl00.utako.moe%2Fv_paradise%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://i.imgur.com/G4f8R5h.png" group-title="JAPAN RE CH",KCTV
+https://tv.intchoson.com/kctv/main_stream.m3u8
+
 
 
 
