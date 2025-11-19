@@ -1102,6 +1102,241 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 
+################ SUMSUNGTV+ PH ################
+
+#EXTINF:-1 tvg-id="" tvg-name="Blast Movies" tvg-logo="" group-title="SUMSUNGTV+ PH",Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c7-amgplt0351/00d683b0-c4f9-11f0-bb07-c6e7b01569fa/79/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Blast Sports" tvg-logo="" group-title="SUMSUNGTV+ PH",Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c1-amgplt0351/e61f2e6d-c508-11f0-b776-864bd3d50c5a/193/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football" tvg-logo="" group-title="SUMSUNGTV+ PH",Premier Football
+https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c5-amgplt0351/6337d1fe-c509-11f0-9a95-aeb861223eef/186/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports" tvg-logo="" group-title="SUMSUNGTV+ PH",Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c3-amgplt0351/36ed2edf-c4f9-11f0-b10a-a209e79ce99f/63/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="" group-title="SUMSUNGTV+ PH",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c4-amgplt0351/14e6fae0-c509-11f0-9a06-5e63735d0bdd/197/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="" group-title="SUMSUNGTV+ PH",UFC TV
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c6-amgplt0351/2fd37e2e-c509-11f0-b10a-a209e79ce99f/126/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tap Sports" tvg-logo="" group-title="SUMSUNGTV+ PH",Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/8e09b450-c4f9-11f0-b776-864bd3d50c5a/120/1280x720_3000800/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tennis+" tvg-logo="" group-title="SUMSUNGTV+ PH",Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01935-amg01935c1-amgplt0352/793a0483-c509-11f0-97e6-7e229622edd8/103/848x480_3420560/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="SUMSUNGTV+ PH",Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sports Stars" tvg-logo="" group-title="SUMSUNGTV+ PH",Trace Sports Stars
+https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist720P.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Euronews World" tvg-logo="" group-title="SUMSUNGTV+ PH",Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="SUMSUNGTV+ PH",Trace Urban
+https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dude Perfect" tvg-logo="" group-title="SUMSUNGTV+ PH",Dude Perfect
+https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Abante Radyo" tvg-logo="" group-title="SUMSUNGTV+ PH",Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c12-amgplt0352/dceb4c49-c4f9-11f0-97e6-7e229622edd8/162/1280x720_3000800/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bilyonaryo News Channel" tvg-logo="" group-title="SUMSUNGTV+ PH",Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c11-amgplt0352/0463ae4a-c4fa-11f0-a351-e22a68f05b1e/22/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leadstory Breaking News" tvg-logo="" group-title="SUMSUNGTV+ PH",Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist720P.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leaderboard Sports News" tvg-logo="" group-title="SUMSUNGTV+ PH",Leaderboard Sports News
+https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="SUMSUNGTV+ PH",France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Masterchef" tvg-logo="" group-title="SUMSUNGTV+ PH",Masterchef
+https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-masterchefuk-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51b382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346165fb212e0960f380ef3981b066aec0122b04b828ca56598dd/176/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="World of Love Island" tvg-logo="" group-title="SUMSUNGTV+ PH",World of Love Island
+https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Hotel Inspector" tvg-logo="" group-title="SUMSUNGTV+ PH",The Hotel Inspector
+https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Antiques Road Trip" tvg-logo="" group-title="SUMSUNGTV+ PH",Antiques Road Trip
+https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/720p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Blast" tvg-logo="" group-title="SUMSUNGTV+ PH",Real Blast
+https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c10-amgplt0351/f1dbab3a-c4fb-11f0-a351-e22a68f05b1e/75/1280x720_3000800/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eggheads" tvg-logo="" group-title="SUMSUNGTV+ PH",Eggheads
+https://amg00654-itvstudios-eggheads-samsunguk-gyqdj.amagi.tv/ts-eu-w1-n2/playlist/amg00654-itvstudios-eggheads-samsunguk/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51e78a119cd04defd5c9089a15d76bf015cb92edd9d210d39bc061a95ee763505b2724c0864b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf93461351b212e0960f380ed8520f80f24186ee89ee9f954d562a46/128/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ani One" tvg-logo="" group-title="SUMSUNGTV+ PH",Ani One
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/ecf7a023-c501-11f0-a2c5-b2bd774aa6e1/103/1280x720_3000800/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="SUMSUNGTV+ PH",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/1bee8cc9-c502-11f0-8bbc-aae37310f195/95/1280x720_5344532/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mythbusters" tvg-logo="" group-title="SUMSUNGTV+ PH",Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mythbusters-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51e481459fd249b283c9089b43846bf015cb92ed828219879bc036fb5fb4655b0a71789c864b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346135cb212caff0e380e247da3ffc07f057bc3d739239ea899ef/125/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="" group-title="SUMSUNGTV+ PH",Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-survivor-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51ee8116cad215b884c9089b43846bf015cb92edda82448a9b9832ab5eb3305e0d747bccd24b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346155db212e9fc0e380e3b670bf842b7934903d4c787f046de73/144/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Highway Thru Hell" tvg-logo="" group-title="SUMSUNGTV+ PH",Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-highwaythruhell-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51b38746cf821aba81c9089b43846bf015cb92ed83d616839b9332ff03b2305c0a7128ced24b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf924e19e933cb949f33f6a9c005c3b07a51bbab99e89a8f235816/98/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Biggest Loser" tvg-logo="" group-title="SUMSUNGTV+ PH",The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-thebiggestloser-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51e78442c1814fed85c9089b43856bf015cb92ed838142d19bc032fc54b5675808242cc0d54b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346115db212a9f20e380e7c6179747e78c4afef9784366e2a9ed/104/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fear Factor" tvg-logo="" group-title="SUMSUNGTV+ PH",Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-fearfactor-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51e5d414c98518b385c9089b43856bf015cb92eddad015839bc461ab06b46c0f08777fc8854b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346185fb212f3f20e380eb8ab9e9e56891e4f7387574c385f62dd/196/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Pawn" tvg-logo="" group-title="SUMSUNGTV+ PH",Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-hardcorepawn-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51e28147cadd1fbc85c9089b43856bf015cb92ed828219879bc036fb5fb4655b0a71789c864b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf924f17e933bf9a9f33f68a4054d5de7b8073d66c9228bb12c612/86/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Wipeout Xtra" tvg-logo="" group-title="SUMSUNGTV+ PH",Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51ef87419adc1bbd81c9089b43856bf015cb92edd9d344d39b9932ff05bb605c0f7129cbd14b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf924018e933ec9a9f33f6cdb8904355ebfeff361204016cbf6e27/79/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="River Monsters by ITV Studios" tvg-logo="" group-title="SUMSUNGTV+ PH",River Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved Mysterys" tvg-logo="" group-title="SUMSUNGTV+ PH",Unsolved Mysterys
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/1f36eb27-1e60-4d78-b786-72f8cc8c0ee3/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deal or No Deal" tvg-logo="" group-title="SUMSUNGTV+ PH",Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-dealornodealrow-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51b3871698d54ae888c9089b43856bf015cb92ed82d246d49b9861fb04ba355a0e7a7fc0814b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf924f12e93394989f33f6a0dcd221a5cdaba812833428a7119aa1/83/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pointless by Banijay" tvg-logo="" group-title="SUMSUNGTV+ PH",Pointless by Banijay
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-pointless-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51b1d317c9804abad6c9089b43856bf015cb92edda8612809bc236ff5eb261515c242fc0d94b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346145db212c6f10e380e2f69d38671a0a3b742a069a13d2bfbca/154/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Don't Tell the Bride" tvg-logo="" group-title="SUMSUNGTV+ PH",Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="SUMSUNGTV+ PH",Dr G Medical Examiner
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/d3533089-c7fe-4a43-9f3d-f6e7c27761d8/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hot Ones" tvg-logo="" group-title="SUMSUNGTV+ PH",Hot Ones
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/083a5026-c9e0-4fdd-8a59-74698685277b/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="" group-title="SUMSUNGTV+ PH",Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Infast" tvg-logo="" group-title="SUMSUNGTV+ PH",Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Inwild" tvg-logo="" group-title="SUMSUNGTV+ PH",Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="InTrave" tvg-logo="" group-title="SUMSUNGTV+ PH",InTrave
+https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="InTrouble" tvg-logo="" group-title="SUMSUNGTV+ PH",InTrouble
+https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kidoodle TV" tvg-logo="" group-title="SUMSUNGTV+ PH",Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Strawberry Shortcake" tvg-logo="" group-title="SUMSUNGTV+ PH",Strawberry Shortcake
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/6c1e614c-e4b4-4e05-a386-daffeedec6eb/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog" tvg-logo="" group-title="SUMSUNGTV+ PH",Sonic the Hedgehog
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/75f0fdb6-df44-4fd2-8382-b0d178143163/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario" tvg-logo="" group-title="SUMSUNGTV+ PH",Super Mario
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/1a5fe24d-21b8-4046-911c-73f0934b5f20/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="" group-title="SUMSUNGTV+ PH",Teletubbies
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/20974762-c652-45e3-a039-78c37a697384/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pop" tvg-logo="" group-title="SUMSUNGTV+ PH",Pop
+https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="" group-title="SUMSUNGTV+ PH",Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K-Content by CJENM (IN) Substitute" tvg-logo="" group-title="SUMSUNGTV+ PH",K-Content by CJENM (IN) Substitute
+https://cc-o7iz6ey4x2e4g.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/d66ffadc-e064-44c0-b48e-4f3f24bb6c9b/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K-Food by CJENM (IN) Substitute" tvg-logo="" group-title="SUMSUNGTV+ PH",K-Food by CJENM (IN) Substitute
+https://cc-nwusx3jrgn2t8.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwusx3jrgn2t8/3be1ecc4-f10f-4560-9306-9a18d8788e16/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kpop by CJENM (IN) Substitute" tvg-logo="" group-title="SUMSUNGTV+ PH",Kpop by CJENM (IN) Substitute
+https://cc-s23bl4el34qh7.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/3416aab6-b455-4cef-90ec-07d075d051e6/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="@Kmusic (IN) substitute" tvg-logo="" group-title="SUMSUNGTV+ PH",@Kmusic (IN) substitute
+https://cc-zrdcjo50f93s4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zrdcjo50f93s4/e0f272ca-c476-46d1-96eb-5d50075e15a6/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Crime" tvg-logo="" group-title="SUMSUNGTV+ PH",Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="History Hit" tvg-logo="" group-title="SUMSUNGTV+ PH",History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/480p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="" group-title="SUMSUNGTV+ PH",Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Wild" tvg-logo="" group-title="SUMSUNGTV+ PH",Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pulse TV" tvg-logo="" group-title="SUMSUNGTV+ PH",Pulse TV
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comic U" tvg-logo="" group-title="SUMSUNGTV+ PH",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c8-amgplt0351/10145de0-c508-11f0-ad2f-22b989294622/110/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Sine" tvg-logo="" group-title="SUMSUNGTV+ PH",Zee Sine
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/cb563d1c7b6c678784cc3778d9f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa46852db80148b6f4adafb8c2360625f5c98435ee3b021c39dfe5c47db72a1af1c56953d51e48543cc804db3d3c9089b438e6bf015cb92ed828219879bc036fb5fb4655b0a71789c864b51a837c3b242bb3ee613186e5c3ed6ab9af2472c964e4d59eb8da4d507de20be42a11c024ddf218b46854af8037bb8ae932281a3bcda4e442ae4e752753ee29dc873139e50cf04abf193b0507997e206794b8941cd382436d282a39c24c467f58602a8ce1d2d2acf874c959eb7c3e0b6cd7a9d28dac6fa9f3c0828096050d60dfbc82cb37bac6eb9b57ea1710364d4be5ccb163c1b0e4205eda14ddd125494da858ad30f0111017147c56fc3520960cd7b3932b56db1ad35628d291d967513cf1864d00cace36cc2aed5b35260f5c69116b62fcea51adef335ac6f175016fca77f080b1f2b90a64d250454ef09a4dfc3ea724927e9f4c6f189131b0f2b185f09c4b3b429d5de8e7953468160276675021ed951853e91531f4001f92c9cfd5b27cb566f7da8f74d283006a1c1bf8588c1d904e42fa1a8d30d6f6a092ded49464c0bfca6884bfc423a5c6852971c6151fd4a1a75e39bcdea8e932ca9b861b933761b73cf924017e933f3aa9f33f6cbc422aa40a3712376918616d0554eed/76/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bollymovies" tvg-logo="" group-title="SUMSUNGTV+ PH",Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Free Movies" tvg-logo="" group-title="SUMSUNGTV+ PH",Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="" group-title="SUMSUNGTV+ PH",Action Hollywood Movies
+https://amg01076-amg01076c4-samsung-ph-5316.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Now 70s" tvg-logo="" group-title="SUMSUNGTV+ PH",Now 70s
+https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Now 80s" tvg-logo="" group-title="SUMSUNGTV+ PH",Now 80s
+https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Now Rock" tvg-logo="" group-title="SUMSUNGTV+ PH",Now Rock
+https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray Pop Adult
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/8d717f67-64a0-47d3-a20b-c77e2376a511/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray 2000s" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray 2000s
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/4e98d6e8-b3a4-4a33-a133-d050df3a747a/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray Greatest Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/b60fdee7-b18d-3d13-94e6-91a82593e061/690800/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/690800/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray SPA" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray SPA
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/3db6a047-c610-359d-a79d-87adf9dc89cc/690800/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Easy Listening" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/8254a89c-49b0-3801-833e-c8a535b9d854/690800/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit list" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray Hit list
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/7b58fe66-6c63-468b-a27b-1f21e5ef1a72/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Todays K-Pop" tvg-logo="" group-title="SUMSUNGTV+ PH",Stingray Todays K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/7f580049-e104-34da-bf75-65c1708e6c1f/690800/manifest.m3u8
+
+
+
 ################# SKY SPORTS ###############
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="" group-title="SKY SPORTS",SKY SPORTS FOOTBALL
