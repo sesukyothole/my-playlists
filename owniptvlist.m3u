@@ -1541,7 +1541,7 @@ https://mc-uzug41ou65.bunny.run/65/dopamine/manifest.mpd
 ################ SUMSUNGTV+ PH ################
 
 #EXTINF:-1 tvg-id="" tvg-name="Blast Movies" tvg-logo="" group-title="SUMSUNGTV+ PH",Blast Movies
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c7-amgplt0351/3d4c475d-c5ef-11f0-9294-fabd6c301604/playlist.m3u8
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Blast Sports" tvg-logo="" group-title="SUMSUNGTV+ PH",Blast Sports
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
