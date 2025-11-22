@@ -2049,6 +2049,22 @@ https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes-avc1_3000000=8-mp4a_25600
 
 
 
+################# TAP MEDIA ##################
+
+#EXTINF:-1 tvg-id="" tvg-name="OMIC U" group-title="TAP MEDIA" tvg-logo="" ,OMIC U
+rtmp://210.4.112.99:1935/tapdmv/comicu
+
+#EXTINF:-1 tvg-id="" tvg-name="EDGE SPORTS" group-title="TAP MEDIA" tvg-logo="" ,EDGE SPORTS
+rtmp://210.4.112.99:1935/tapdmv/edgesports
+
+#EXTINF:-1 tvg-id="" tvg-name="TAPSILOG" group-title="TAP MEDIA" tvg-logo="" ,TAPSILOG
+rtmp://210.4.112.99:1935/tapdmv/TVN_movies
+
+#EXTINF:-1 tvg-id="" tvg-name="BLAST SPORTS" group-title="TAP MEDIA" tvg-logo="" ,BLAST SPORTS
+rtmp://210.4.112.99:1935/tapdmv/blastSports
+
+
+
 ################# CONVERGE #################
 
 #EXTINF:-1 group-logo="https://i.imgur.com/S3WUI7k.png"
