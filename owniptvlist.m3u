@@ -1089,6 +1089,8 @@ http://supersonictv.live:8080/611366/682256/22125
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/ns7Clog.png",Anime X Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/4300.m3u8
 
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png",Kapamilya HD
+https://cdn-uw2-prod.tsv2.amagi.tv/beacon?rp=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/028410af-06c7-4364-beb5-1be6ce608f00/index.mpd&streamId=amg01006-abs-cbn-kapcha-dash-abscbnono&sessionId=028410af-06c7-4364-beb5-1be6ce608f00
 
 
 ################# RAKUTEN TV #################
@@ -1502,6 +1504,7 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 
 
 
+
 ################# REALITY SHOWS ###############
 
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="" group-title="REALITY SHOWS",TasteMade Home
@@ -1551,29 +1554,29 @@ https://8644ef8e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6
 
 ################# KIDS & TEENS #################
 
-#EXTINF:-1 tvg-id="" tvg-name="AnimeX" tvg-logo="" group-title="REALITY SHOWS",AnimeX
-https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="AnimeX" tvg-logo="", AnimeX
+ https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="REALITY SHOWS",Aniplus
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Aniplus" tvg-logo="", Aniplus
+ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="REALITY SHOWS",Aniplus (Alt)
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Aniplus" tvg-logo="", Aniplus
+ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ani-One" tvg-logo="" group-title="REALITY SHOWS",Ani-One
-https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Ani-One" tvg-logo="", Ani-One
+ https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Anime X Hidive" tvg-logo="" group-title="REALITY SHOWS",Anime X Hidive
-https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Anime X Hidive" tvg-logo="", Anime X Hidive
+ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="REALITY SHOWS",Cartoon Network
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Cartoon Network" tvg-logo="", Cartoon Network
+ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="REALITY SHOWS",Disney
-https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8 
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Disney" tvg-logo="", Disney
+ https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PBS Kids" tvg-logo="" group-title="REALITY SHOWS",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="PBS Kids" tvg-logo="", PBS Kids
+ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 
 
