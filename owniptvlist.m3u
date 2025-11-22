@@ -2104,6 +2104,13 @@ http://45.173.75.4:2061/play/a09c
 #KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
 https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
 
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://help.unext.jp/images/channels/mensneco.png" group-title="XBiGBoY", Blu3 Hu5tler
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
+
 #EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/TzUxZBo.png" group-title="XBiGBoY", Babes TV
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes-avc1_3000000=8-mp4a_256000_eng=7.m3u8
 
