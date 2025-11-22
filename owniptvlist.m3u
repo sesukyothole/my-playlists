@@ -2116,7 +2116,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+https://dash4.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/TzUxZBo.png" group-title="XBiGBoY", Babes TV
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes-avc1_3000000=8-mp4a_256000_eng=7.m3u8
