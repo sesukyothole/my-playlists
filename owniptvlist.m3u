@@ -1516,7 +1516,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-on
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="" group-title="REALITY SHOWS",TasteMade
 https://amg00047-tastemade-tmintleng-xiaomi-u5r78.amagi.tv/ts-us-e2-n1/playlist/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PawnStars" tvg-logo="" group-title="REALITY SHOWS",PawnStars
+#EXTINF:-1 tvg-id="" tvg-name="PawnStars" tvg-logo="https://i.imgur.com/YliG0y1.png" group-title="REALITY SHOWS",PawnStars
 https://d1a92tedfmwyf8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4951em36zty6h/604be1e5-abeb-48b0-bf04-24fb16e4e56f/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Storage Wars" tvg-logo="" group-title="REALITY SHOWS",Storage Wars
