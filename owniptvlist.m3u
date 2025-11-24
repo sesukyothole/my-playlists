@@ -1507,13 +1507,13 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 
 ################# REALITY SHOWS ###############
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="" group-title="REALITY SHOWS",TasteMade Home
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="https://i.imgur.com/FciqOFP.png" group-title="REALITY SHOWS",TasteMade Home
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/002fb970-7471-45cb-a9cd-7e2eefc873d5/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade Travel" tvg-logo="" group-title="REALITY SHOWS",TasteMade Travel
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade Travel" tvg-logo="https://i.imgur.com/cD2WCf3.png" group-title="REALITY SHOWS",TasteMade Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/002fb970-7471-45cb-a9cd-7e2eefc873d5/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="" group-title="REALITY SHOWS",TasteMade
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="REALITY SHOWS",TasteMade
 https://amg00047-tastemade-tmintleng-xiaomi-u5r78.amagi.tv/ts-us-e2-n1/playlist/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PawnStars" tvg-logo="https://i.imgur.com/XVcysi9.png" group-title="REALITY SHOWS",PawnStars
@@ -1522,7 +1522,7 @@ https://d1a92tedfmwyf8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-id="" tvg-name="Storage Wars" tvg-logo="https://i.imgur.com/qHlY6Xe.png" group-title="REALITY SHOWS",Storage Wars
 https://d3179nikh8q8vc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nouiztbprgmjl/52296d27-1565-4415-8510-b43ea8b160af/2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Forged In Fire" tvg-logo="" group-title="REALITY SHOWS",Forged In Fire
+#EXTINF:-1 tvg-id="" tvg-name="Forged In Fire" tvg-logo="https://i.imgur.com/Z7j7CNP.png" group-title="REALITY SHOWS",Forged In Fire
 https://ddv0yw1y47imm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xrn8m6ucj16/add2c71e-94bc-4aba-8c08-db05232860cf/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="https://i.imgur.com/WQXccaL.png" group-title="REALITY SHOWS",Tiny House Nation
@@ -1531,22 +1531,22 @@ https://42bea5f2.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6
 #EXTINF:-1 tvg-id="" tvg-name="Home Made Nation" tvg-logo="https://i.imgur.com/z22SwUT.png" group-title="REALITY SHOWS",Home Made Nation
 https://42bea5f2.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/922a6f6b-ed1f-4421-be5b-edf36038f940/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="" group-title="REALITY SHOWS",Hells Kitchen
+#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://i.imgur.com/ZyeKJvj.png" group-title="REALITY SHOWS",Hells Kitchen
 https://d3is52sgpnlx4c.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_viziowatchfree-ams-aws/abdd9dc2-0e69-4e49-b073-94c6753c1004/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Feud" tvg-logo="" group-title="REALITY SHOWS",Family Feud
+#EXTINF:-1 tvg-id="" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png" group-title="REALITY SHOWS",Family Feud
 https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/285d1272-725a-4c1f-ba41-a683c11f4ec9/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Gear" tvg-logo="" group-title="REALITY SHOWS",Top Gear
+#EXTINF:-1 tvg-id="" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png" group-title="REALITY SHOWS",Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist1080-tp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png" group-title="REALITY SHOWS",Torque
 https://c9c2f259.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/0ed79859-d089-4d96-bdc5-a15c6b354a77/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja Warrior" tvg-logo="" group-title="REALITY SHOWS",American Ninja Warrior
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja Warrior" tvg-logo="https://i.imgur.com/byRY9gG.png" group-title="REALITY SHOWS",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="" group-title="REALITY SHOWS",Monster Jam
+#EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png" group-title="REALITY SHOWS",Monster Jam
 https://8644ef8e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/768f1567-521e-4852-bcd5-7c967841b189/4.m3u8
 
 
