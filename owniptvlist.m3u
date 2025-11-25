@@ -1968,7 +1968,7 @@ https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_1080p.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.imgur.com/ShsRvYo.png",BIHMTV
 https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/chunks.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.imgur.com/rxyEmTh.png",Rage TV
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="src="https://i.imgur.com/DTF7Aa0.png",Rage TV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.imgur.com/6s7VLY4.png",Hallypop
@@ -1984,12 +1984,12 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="WORLD TV",MNX
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/mnx.png",MNX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnxhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="WORLD TV",MX Plus
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png",MX Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
