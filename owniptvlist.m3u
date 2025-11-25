@@ -1175,6 +1175,15 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/HtMoOtY.png",COMBAT GO
 https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_1080p.m3u8
 
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/ShsRvYo.png",BIHMTV
+https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/chunks.m3u8
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/rxyEmTh.png",Rage TV
+https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/6s7VLY4.png",Hallypop
+https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png/v1/fill/w_529,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/JungoPinoy_BrandLogo.png",Jungo PinoyTV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
