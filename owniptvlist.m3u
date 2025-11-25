@@ -51,28 +51,28 @@ https://8644ef8e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6
 ################# KIDS & TEENS #################
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="AnimeX" tvg-logo="", AnimeX
- https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Aniplus" tvg-logo="", Aniplus
- https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Aniplus" tvg-logo="", Aniplus
- https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Ani-One" tvg-logo="", Ani-One
- https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Anime X Hidive" tvg-logo="https://i.imgur.com/svxOI2A.png", Anime X Hidive
- https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Cartoon Network" tvg-logo="", Cartoon Network
- https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Disney" tvg-logo="", Disney
- https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="PBS Kids" tvg-logo="", PBS Kids
- https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 
 
