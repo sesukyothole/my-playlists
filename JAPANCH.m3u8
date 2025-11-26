@@ -1,0 +1,17 @@
+#EXTM3U billed-msg="M3U PLAYLIST BY: Alien_X"
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+
+################# JAPAN ###############
+
+#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/BSFuji_logo.svg" group-title="JAPAN MAIN CH",BS Fuji
+https://nl.utako.moe/bsfuji/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://i.imgur.com/eTJP9r8.png" group-title="JAPAN MAIN CH",NHK BS
+https://nl.utako.moe/NHK_BS/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://i.imgur.com/1pGaRED.png" group-title="JAPAN MAIN CH",NHK BS4K
+https://nl.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="BS10_Premium" tvg-name="BS10 Premium" tvg-logo="https://i.imgur.com/4Oma8eS.png" group-title="JAPAN MAIN CH",BS10 Premium
+https://nl.utako.moe/bs10_star/tracks-v1a1/mono.ts.m3u8
