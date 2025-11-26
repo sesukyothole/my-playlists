@@ -15,3 +15,6 @@ https://nl.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BS10_Premium" tvg-name="BS10 Premium" tvg-logo="https://i.imgur.com/4Oma8eS.png" group-title="JAPAN MAIN CH",BS10 Premium
 https://nl.utako.moe/bs10_star/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/OFfKTXl.png" group-title="JAPAN MAIN CH",NTV
+https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
