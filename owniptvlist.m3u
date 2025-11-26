@@ -8,7 +8,7 @@
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/002fb970-7471-45cb-a9cd-7e2eefc873d5/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade Travel" tvg-logo="https://i.imgur.com/cD2WCf3.png" group-title="REALITY SHOWS",TasteMade Travel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/002fb970-7471-45cb-a9cd-7e2eefc873d5/1.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/bc58c2ea-3e6d-41ad-a2dd-cb385268912b/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="REALITY SHOWS",TasteMade
 https://amg00047-tastemade-tmintleng-xiaomi-u5r78.amagi.tv/ts-us-e2-n1/playlist/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
@@ -45,6 +45,21 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png" group-title="REALITY SHOWS",Monster Jam
 https://8644ef8e.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/768f1567-521e-4852-bcd5-7c967841b189/4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="REALITY SHOW",The Amazing Race
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
+
+#EXTINF:-1 tvg-id="" tvg-name="Deal or No Deal" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="REALITY SHOW",Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+    
+#EXTINF:-1 tvg-id="" tvg-name="The Biggest Loser" tvg-logo="https://i.imgur.com/YrKNJaT.png" group-title="REALITY SHOW",The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+    
+#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="REALITY SHOW",Survivor
+https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
+
+
 
 
 
@@ -1968,7 +1983,7 @@ https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_1080p.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.imgur.com/ShsRvYo.png",BIHMTV
 https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/chunks.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="src="https://i.imgur.com/DTF7Aa0.png",Rage TV
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="src="https://rageteebee.vercel.app/logo.png",Rage TV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.imgur.com/6s7VLY4.png",Hallypop
@@ -1993,6 +2008,20 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
+
+#EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="World TV",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+    
+#EXTINF:-1 tvg-id="MoviesAction.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="World TV",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comic U" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comic-u.png" group-title="World TV",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+
+
+
+
+
 
 
 
