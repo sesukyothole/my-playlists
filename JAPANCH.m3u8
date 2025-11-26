@@ -18,3 +18,26 @@ https://nl.utako.moe/bs10_star/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/OFfKTXl.png" group-title="JAPAN MAIN CH",NTV
 https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="BSFuji" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BS_Fuji_logo.svg/320px-BS_Fuji_logo.svg.png" group-title="JAPAN RE CH",RE BS Fuji
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl.utako.moe%2Fbsfuji%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NHKBS" tvg-name="NHK BS" tvg-logo="https://i.imgur.com/g8o472E.png" group-title="JAPAN RE CH",RE NHK BS
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl.utako.moe%2FNHK_BS%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NHKBS4K" tvg-name="NHK BS4K" tvg-logo="https://i.imgur.com/g8o472E.png" group-title="JAPAN RE CH",RE NHK BS4K
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl.utako.moe%2Fbsp4k%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="BS10Premium" tvg-name="BS10 Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Japan_BS10_logo.svg/512px-Japan_BS10_logo.svg.png" group-title="JAPAN RE CH",RE BS10 Premium
+https://jpterebimk1.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl.utako.moe%2Fbs10_star%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/u7yT0qQ.png" group-title="JAPAN RE CH",RE NTV
+https://jpterebimk2.ningningphcxd.workers.dev/segment/https%3A%2F%2Fnl.utako.moe%2FNippon_TV%2Ftracks-v1a1%2Fmono.ts.m3u8 
+
+
+
+
+
