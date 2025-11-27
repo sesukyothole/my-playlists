@@ -1146,7 +1146,7 @@ https://nl.utako.moe/disneychan/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Cartoon_Network_Japan" tvg-name="Cartoon Network Japan" tvg-logo="https://i.imgur.com/6x7H4UJ.png" group-title="JAPAN MAIN CH",Cartoon Network Japan
 https://nl.utako.moe/cartoon_network/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="JAPAN MAIN CH",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/MTV-Logo.png" group-title="JAPAN MAIN CH",MTV
 https://nl.utako.moe/mtv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Music_ON_TV" tvg-name="Music ON TV" tvg-logo="https://i.imgur.com/vN9jcyf.png" group-title="JAPAN MAIN CH",Music ON TV
@@ -1177,7 +1177,7 @@ https://nl.utako.moe/neco/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dlife_2024.svg/revision/latest/scale-to-width-down/284?cb=20231206163930" group-title="JAPAN MAIN CH",Dlife
 https://nl.utako.moe/dlife/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="Toei Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Toei_animation_logo.PNG" group-title="JAPAN MAIN CH",Toei Channel
+#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="Toei Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Toei_Channel.png/revision/latest?cb=20250512121152" group-title="JAPAN MAIN CH",Toei Channel
 https://nl.utako.moe/toei/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Entermei_Tele" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png" group-title="JAPAN MAIN CH",Entermei Tele
