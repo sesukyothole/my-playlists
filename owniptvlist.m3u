@@ -1146,7 +1146,7 @@ https://nl.utako.moe/disneychan/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Cartoon_Network_Japan" tvg-name="Cartoon Network Japan" tvg-logo="https://i.imgur.com/6x7H4UJ.png" group-title="JAPAN MAIN CH",Cartoon Network Japan
 https://nl.utako.moe/cartoon_network/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="JAPAN MAIN CH",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="JAPAN MAIN CH",MTV
 https://nl.utako.moe/mtv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Music_ON_TV" tvg-name="Music ON TV" tvg-logo="https://i.imgur.com/vN9jcyf.png" group-title="JAPAN MAIN CH",Music ON TV
