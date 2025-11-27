@@ -1170,10 +1170,11 @@ https://nl.utako.moe/gaora/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Family_Gekijyo" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/uFtNUr9.png" group-title="JAPAN MAIN CH",Family Gekijyo
 https://nl.utako.moe/familygeki/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Channel_NECO" tvg-name="Channel NECO" tvg-logo="" group-title="JAPAN MAIN CH",Channel NECO
+#EXTINF:-1 tvg-id="Channel_NECO" tvg-name="Channel NECO" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj
+" group-title="JAPAN MAIN CH",Channel NECO
 https://nl.utako.moe/neco/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="" group-title="JAPAN MAIN CH",Dlife
+#EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dlife_2024.svg/revision/latest/scale-to-width-down/284?cb=20231206163930" group-title="JAPAN MAIN CH",Dlife
 https://nl.utako.moe/dlife/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Toei_Channel" tvg-name="Toei Channel" tvg-logo="" group-title="JAPAN MAIN CH",Toei Channel
