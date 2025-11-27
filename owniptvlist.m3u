@@ -1005,16 +1005,16 @@ https://hello.kbshlsfree.workers.dev/free/channel/nvod10/master.m3u8
 
 #EXTGRP:JAPAN MAIN CH
 
-#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/BSFuji_logo.svg" group-title="JAPAN MAIN CH",BS Fuji
+#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BS Fuji" tvg-logo="https://i.imgur.com/GzdCXAJ.png" group-title="JAPAN MAIN CH",BS Fuji
 https://nl.utako.moe/bsfuji/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="BS_Nittele" tvg-name="BS Nittele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BS_NTV_logo.svg/320px-BS_NTV_logo.svg.png" group-title="JAPAN MAIN CH",BS Nittele
+#EXTINF:-1 tvg-id="BS_Nittele" tvg-name="BS Nittele" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="JAPAN MAIN CH",BS Nittele
 https://nl.utako.moe/bsntv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="BS_TBS" tvg-name="BS TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BS-TBS_logo.svg/320px-BS-TBS_logo.svg.png" group-title="JAPAN MAIN CH",BS TBS
+#EXTINF:-1 tvg-id="BS_TBS" tvg-name="BS TBS" tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="JAPAN MAIN CH",BS TBS
 https://nl.utako.moe/bstbs/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="BS_TV_Tokyo" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/BS_TV_Tokyo_Logo.svg" group-title="JAPAN MAIN CH",BS TV Tokyo
+#EXTINF:-1 tvg-id="BS_TV_Tokyo" tvg-name="BS TV Tokyo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512" group-title="JAPAN MAIN CH",BS TV Tokyo
 https://nl.utako.moe/bstvtokyo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BS10_Premium" tvg-name="BS10 Premium" tvg-logo="https://i.imgur.com/4Oma8eS.png" group-title="JAPAN MAIN CH",BS10 Premium
@@ -1035,7 +1035,7 @@ https://nl.utako.moe/wprime/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://i.imgur.com/hpNlfwf.png" group-title="JAPAN MAIN CH",WOWOW Cinema
 https://nl.utako.moe/wcinema/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Mondo_TV" tvg-name="Mondo TV" tvg-logo="https://www.discoveryjapan.jp/assets/img/mondotv/logo.png" group-title="JAPAN MAIN CH",Mondo TV
+#EXTINF:-1 tvg-id="Mondo_TV" tvg-name="Mondo TV" tvg-logo="https://i.imgur.com/mmpjpu2.png" group-title="JAPAN MAIN CH",Mondo TV
 https://nl.utako.moe/mondo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://i.imgur.com/9B3Xbhr.png" group-title="JAPAN MAIN CH",WOWOW Live
