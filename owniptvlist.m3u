@@ -1029,17 +1029,17 @@ https://nl.utako.moe/NHK_BS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHK_BS4K" tvg-name="NHK BS4K" tvg-logo="https://i.imgur.com/1pGaRED.png" group-title="JAPAN MAIN CH",NHK BS4K
 https://nl.utako.moe/bsp4k/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://i.imgur.com/zuVZvLe.png" group-title="JAPAN MAIN CH",WOWOW Prime
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/88/WOWOW_Prime.png/revision/latest?cb=20170708073145" group-title="JAPAN MAIN CH",WOWOW Prime
 https://nl.utako.moe/wprime/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://i.imgur.com/hpNlfwf.png" group-title="JAPAN MAIN CH",WOWOW Cinema
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest?cb=20180131140829" group-title="JAPAN MAIN CH",WOWOW Cinema
 https://nl.utako.moe/wcinema/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/WOWOW_Live.png/revision/latest?cb=20170708073205" group-title="JAPAN MAIN CH",WOWOW Live
+https://nl.utako.moe/wlive/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Mondo_TV" tvg-name="Mondo TV" tvg-logo="https://i.imgur.com/mmpjpu2.png" group-title="JAPAN MAIN CH",Mondo TV
 https://nl.utako.moe/mondo/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="https://i.imgur.com/9B3Xbhr.png" group-title="JAPAN MAIN CH",WOWOW Live
-https://nl.utako.moe/wlive/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="JSports_1" tvg-name="JSports 1" tvg-logo="https://i.imgur.com/XrTx6R0.png" group-title="JAPAN MAIN CH",JSports 1
 https://nl.utako.moe/js1/tracks-v1a1/mono.ts.m3u8
@@ -1177,28 +1177,25 @@ https://nl.utako.moe/neco/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Dlife" tvg-name="Dlife" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dlife_2024.svg/revision/latest/scale-to-width-down/284?cb=20231206163930" group-title="JAPAN MAIN CH",Dlife
 https://nl.utako.moe/dlife/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="Toei Channel" tvg-logo="" group-title="JAPAN MAIN CH",Toei Channel
+#EXTINF:-1 tvg-id="Toei_Channel" tvg-name="Toei Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Toei_animation_logo.PNG" group-title="JAPAN MAIN CH",Toei Channel
 https://nl.utako.moe/toei/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Entermei_Tele" tvg-name="Entermei Tele" tvg-logo="" group-title="JAPAN MAIN CH",Entermei Tele
+#EXTINF:-1 tvg-id="Entermei_Tele" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png" group-title="JAPAN MAIN CH",Entermei Tele
 https://nl.utako.moe/entermei_tele/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="Home Drama Channel" tvg-logo="" group-title="JAPAN MAIN CH",Home Drama Channel
+#EXTINF:-1 tvg-id="Home_Drama_Channel" tvg-name="Home Drama Channel" tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="JAPAN MAIN CH",Home Drama Channel
 https://nl.utako.moe/homedrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="Channel Ginga" tvg-logo="" group-title="JAPAN MAIN CH",Channel Ginga
+#EXTINF:-1 tvg-id="Channel_Ginga" tvg-name="Channel Ginga" tvg-logo="https://www.ch-ginga.jp/assets/images/common/header_logo.png" group-title="JAPAN MAIN CH",Channel Ginga
 https://nl.utako.moe/gingach/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Tabi_Channel" tvg-name="Tabi Channel" tvg-logo="" group-title="JAPAN MAIN CH",Tabi Channel
+#EXTINF:-1 tvg-id="Tabi_Channel" tvg-name="Tabi Channel" tvg-logo="https://i.imgur.com/JBePECx.png" group-title="JAPAN MAIN CH",Tabi Channel
 https://nl.utako.moe/tabi/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Pigoo" tvg-name="Pigoo" tvg-logo="" group-title="JAPAN MAIN CH",Pigoo
-https://nl.utako.moe/pigoo/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="V_Paradise" tvg-name="V Paradise" tvg-logo="" group-title="JAPAN MAIN CH",V Paradise
+#EXTINF:-1 tvg-id="V_Paradise" tvg-name="V Paradise" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" group-title="JAPAN MAIN CH",V Paradise
 https://nl.utako.moe/v_paradise/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="" group-title="JAPAN MAIN CH",KCTV
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korean_Central_Television_2005.svg/revision/latest/scale-to-width-down/250?cb=20240831112220" group-title="JAPAN MAIN CH",KCTV
 https://tv.intchoson.com/kctv/main_stream.m3u8
 
 
@@ -3109,19 +3106,15 @@ https://converse.nathcreqtives.com/1147/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
 https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
 
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",Pigoo
+https://nl.utako.moe/pigoo/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",Blu3 Hu5tler
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
-
-#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",xxx
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash4.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",BabesTV 1
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes-avc1_3000000=8-mp4a_256000_eng=7.m3u8
