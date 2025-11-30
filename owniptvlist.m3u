@@ -3,25 +3,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
 
-
-#EXTINF:-1 tvg-id="The.Filipino.Channel.sg" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="GABRIEL : FREE LOCAL PLAYLIST",TFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
-
-#EXTINF:-1 tvg-id="kapcha1" tvg-name="PBB CE LIVE (TFC)" tvg-logo="https://i.imgur.com/Niy6Xka.jpg" group-title="GABRIEL : FREE LOCAL PLAYLIST",PBB All Access
-#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
-https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="aniplus" tvg-name="PBA RUSH HD" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="GABRIEL : FREE LOCAL PLAYLIST",Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
-
-
-
 ################# REALITY SHOWS ###############
 
 #EXTINF:-1 tvg-id="" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png" group-title="REALITY SHOWS",Torque
@@ -62,10 +43,10 @@ https://3cfa9d89.wurl.com/v1/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml
 https://amg00047-tastemade-tmintleng-xiaomi-u5r78.amagi.tv/ts-us-e2-n1/playlist/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="https://i.imgur.com/FciqOFP.png" group-title="REALITY SHOWS",TasteMade Home
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/987fd2d5-788d-42aa-b193-4a0a7944ea06/0.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade Travel" tvg-logo="https://i.imgur.com/cD2WCf3.png" group-title="REALITY SHOWS",TasteMade Travel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/304c3fb5-c6e1-4f49-a5a7-77b6b3f5bbd1/0.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="REALITY SHOWS",The Amazing Race
