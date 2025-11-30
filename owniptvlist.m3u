@@ -28,7 +28,7 @@ https://42bea5f2.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6
 #EXTINF:-1 tvg-id="" tvg-name="Home Made Nation" tvg-logo="https://i.imgur.com/z22SwUT.png" group-title="REALITY SHOWS",Home Made Nation
 https://3cfa9d89.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/4544a9a5-b57f-4c07-a35c-6fcf806fafec/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://i.imgur.com/ZyeKJvj.png" group-title="REALITY SHOWS",Hells Kitchen
+#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="REALITY SHOWS",Hells Kitchen
 https://d3is52sgpnlx4c.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_viziowatchfree-ams-aws/574004fd-175d-4356-81e5-a16aaeb78266/4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png" group-title="REALITY SHOWS",Family Feud
@@ -74,19 +74,19 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Aniplus" tvg-logo="", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Ani-One" tvg-logo="", Ani-One
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Ani-One" tvg-logo="https://deprecated.cc/tv/images/csAtXyPJ.png", Ani-One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Anime X Hidive" tvg-logo="https://deprecated.cc/tv/images/E1LIeR2.png", Anime X Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Cartoon Network" tvg-logo="", Cartoon Network
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Cartoon Network" tvg-logo="https://deprecated.cc/tv/images/R1fV2uY.png", Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
 
-#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Disney" tvg-logo="", Disney
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="Disney" tvg-logo="https://deprecated.cc/tv/images/NVRbZfJ.png", Disney
 https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="PBS Kids" tvg-logo="", PBS Kids
+#EXTINF:-1 group-title="KIDS & TEENS" tvg-name="PBS Kids" tvg-logo="https://deprecated.cc/tv/images/RNtLJ3S.png", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 
