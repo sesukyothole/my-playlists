@@ -1,186 +1,192 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: Alien_X"
+
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/all.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/philippines1.xml.gz, https://www.open-epg.com/files/philippines2.xml.gz, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml, https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml, https://epg.pw/xmltv/epg_PH.xml, https://tinyurl.com/merged2423-epg, https://tinyurl.com/DrewLive002-epg, https://iptv-epg.org/files/epg-all.xml.gz, https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/globetvapp/epg/main/index.xml, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz" refresh="3600"
 
-################# REALITY TV (Series / TV Shows) ###############
 
-#EXTINF:-1 tvg-id="" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png" group-title="Reality TV",Torque
+################# SERIES / TV SHOWS (Reality TV) ###############
+# All channels originally grouped as "REALITY SHOWS" are mapped to **Series / TV Shows** (specifically, Reality TV).
+
+#EXTINF:-1 tvg-id="" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png" group-title="Series / TV Shows",Torque
 https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png" group-title="Reality TV",Top Gear
+#EXTINF:-1 tvg-id="" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png" group-title="Series / TV Shows",Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PawnStars" tvg-logo="https://i.imgur.com/XVcysi9.png" group-title="Reality TV",PawnStars
+#EXTINF:-1 tvg-id="" tvg-name="PawnStars" tvg-logo="https://i.imgur.com/XVcysi9.png" group-title="Series / TV Shows",PawnStars
 https://d1a92tedfmwyf8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4951em36zty6h/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US300003S3
 
-#EXTINF:-1 tvg-id="" tvg-name="Storage Wars" tvg-logo="https://i.imgur.com/qHlY6Xe.png" group-title="Reality TV",Storage Wars
+#EXTINF:-1 tvg-id="" tvg-name="Storage Wars" tvg-logo="https://i.imgur.com/qHlY6Xe.png" group-title="Series / TV Shows",Storage Wars
 https://d3179nikh8q8vc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nouiztbprgmjl/v1/aenetworks_storagewarsla_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1700006T2
 
-#EXTINF:-1 tvg-id="" tvg-name="Forged In Fire" tvg-logo="https://i.imgur.com/Z7j7CNP.png" group-title="Reality TV",Forged In Fire
+#EXTINF:-1 tvg-id="" tvg-name="Forged In Fire" tvg-logo="https://i.imgur.com/Z7j7CNP.png" group-title="Series / TV Shows",Forged In Fire
 https://ddv0yw1y47imm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xrn8m6ucj16/v1/aenetworks_forgedinfire_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD2700014QW
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png" group-title="Reality TV",Family Feud
+#EXTINF:-1 tvg-id="" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png" group-title="Series / TV Shows",Family Feud
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991232
 
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja Warrior" tvg-logo="https://i.imgur.com/byRY9gG.png" group-title="Reality TV",American Ninja Warrior
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja Warrior" tvg-logo="https://i.imgur.com/byRY9gG.png" group-title="Series / TV Shows",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png" group-title="Reality TV",Monster Jam
+#EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png" group-title="Series / TV Shows",Monster Jam
 https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="Reality TV",Hell's Kitchen 1
+#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="Series / TV Shows",Hell's Kitchen 1
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885521/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885521
 
-#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="Reality TV",Hell's Kitchen 2
+#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="Series / TV Shows",Hell's Kitchen 2
 https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="https://i.imgur.com/WQXccaL.png" group-title="Home & Garden",Tiny House Nation
+#EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="https://i.imgur.com/WQXccaL.png" group-title="Series / TV Shows",Tiny House Nation
 https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Home Made Nation" tvg-logo="https://i.imgur.com/z22SwUT.png" group-title="Home & Garden",Home Made Nation
+#EXTINF:-1 tvg-id="" tvg-name="Home Made Nation" tvg-logo="https://i.imgur.com/z22SwUT.png" group-title="Lifestyle & Culture",Home Made Nation
 https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="Cooking / Food",TasteMade
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="Lifestyle & Culture",TasteMade
 https://amg00047-tastemade-tmintleng-xiaomi-u5r78.amagi.tv/ts-us-e2-n1/playlist/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="https://i.imgur.com/FciqOFP.png" group-title="Home & Garden",TasteMade Home
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="https://i.imgur.com/FciqOFP.png" group-title="Lifestyle & Culture",TasteMade Home
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade Travel" tvg-logo="https://i.imgur.com/cD2WCf3.png" group-title="Travel",TasteMade Travel
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade Travel" tvg-logo="https://i.imgur.com/cD2WCf3.png" group-title="Lifestyle & Culture",TasteMade Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-name="Duck Dynasty" tvg-logo="https://i.imgur.com/3XCB8cQ.png" group-title="Reality TV",Duck Dynasty
+#EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-name="Duck Dynasty" tvg-logo="https://i.imgur.com/3XCB8cQ.png" group-title="Series / TV Shows",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Educational",Mythbusters
+#EXTINF:-1 tvg-id="" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Series / TV Shows",Mythbusters
 https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Reality TV",Survivor 1
+#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Series / TV Shows",Survivor 1
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://i.imgur.com/RgQzgwm.png" group-title="Reality TV",Survivor 2
+#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://i.imgur.com/RgQzgwm.png" group-title="Series / TV Shows",Survivor 2
 https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Highway Thru Hell" tvg-logo="https://i.imgur.com/HCaAWXB.png" group-title="Reality TV",Highway Thru Hell
+#EXTINF:-1 tvg-id="" tvg-name="Highway Thru Hell" tvg-logo="https://i.imgur.com/HCaAWXB.png" group-title="Series / TV Shows",Highway Thru Hell
 https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Biggest Loser" tvg-logo="https://i.imgur.com/YrKNJaT.png" group-title="Reality TV",The Biggest Loser
+#EXTINF:-1 tvg-id="" tvg-name="The Biggest Loser" tvg-logo="https://i.imgur.com/YrKNJaT.png" group-title="Series / TV Shows",The Biggest Loser
 https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fear Factor" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Reality TV",Fear Factor
+#EXTINF:-1 tvg-id="" tvg-name="Fear Factor" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Series / TV Shows",Fear Factor
 https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Pawn" tvg-logo="https://i.imgur.com/YH2HsR9.png" group-title="Reality TV",Hardcore Pawn
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Pawn" tvg-logo="https://i.imgur.com/YH2HsR9.png" group-title="Series / TV Shows",Hardcore Pawn
 https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Wipeout Xtra" tvg-logo="https://i.imgur.com/zOV1QqV.png" group-title="Reality TV",Wipeout Xtra
+#EXTINF:-1 tvg-id="" tvg-name="Wipeout Xtra" tvg-logo="https://i.imgur.com/zOV1QqV.png" group-title="Series / TV Shows",Wipeout Xtra
 https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Deal or No Deal" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Reality TV",Deal or No Deal
+#EXTINF:-1 tvg-id="" tvg-name="Deal or No Deal" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Series / TV Shows",Deal or No Deal
 https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Don't Tell the Bride" tvg-logo="https://i.imgur.com/h0bc3Fa.png" group-title="Reality TV",Don't Tell the Bride
+#EXTINF:-1 tvg-id="" tvg-name="Don't Tell the Bride" tvg-logo="https://i.imgur.com/h0bc3Fa.png" group-title="Series / TV Shows",Don't Tell the Bride
 https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Masterchef" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Cooking / Food",Masterchef
+#EXTINF:-1 tvg-id="" tvg-name="Masterchef" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Lifestyle & Culture",Masterchef
 https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="World of Love Island" tvg-logo="https://i.imgur.com/yos8i8j.png" group-title="Reality TV",World of Love Island 
+#EXTINF:-1 tvg-id="" tvg-name="World of Love Island" tvg-logo="https://i.imgur.com/yos8i8j.png" group-title="Series / TV Shows",World of Love Island 
 https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Hotel Inspector" tvg-logo="https://images.fanart.tv/bigpreview/the-hotel-inspector-68835a5762ad2.png" group-title="Reality TV",The Hotel Inspector 
+#EXTINF:-1 tvg-id="" tvg-name="The Hotel Inspector" tvg-logo="https://images.fanart.tv/bigpreview/the-hotel-inspector-68835a5762ad2.png" group-title="Series / TV Shows",The Hotel Inspector 
 https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antiques Road Trip" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Reality TV",Antiques Road Trip
+#EXTINF:-1 tvg-id="" tvg-name="Antiques Road Trip" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Series / TV Shows",Antiques Road Trip
 https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="https://i.imgur.com/FGpda9j.png" group-title="Reality TV",Come Dine With Me
+#EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="https://i.imgur.com/FGpda9j.png" group-title="Lifestyle & Culture",Come Dine With Me
 https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Special Interest",Pet Club TV
 https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Real Crime" tvg-logo="https://i.imgur.com/eCt3sFq.png" group-title="Crime / Mystery",Real Crime
+#EXTINF:-1 tvg-id="" tvg-name="Real Crime" tvg-logo="https://i.imgur.com/eCt3sFq.png" group-title="Series / TV Shows",Real Crime
 https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="Reality TV",The Amazing Race
+
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="Series / TV Shows",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
     
-################# DOCUMENTARY #################
 
-#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Documentary",Dr G Medical Examiner
+################# LIFESTYLE & CULTURE (Documentary, Travel, Cooking / Food) #################
+# All channels originally grouped as "DOCUMENTARY" are mapped to **Lifestyle & Culture**, as Documentary is a sub-genre you specified.
+
+#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Lifestyle & Culture",Dr G Medical Examiner
 https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/2641f998-637f-48e7-96bb-25cef625bfef/4.m3u8
-#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Documentary",Dr G Medical Examiner
 https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/46813d5b-8918-4044-855a-5cd973f36e8f/4.m3u8
-#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Documentary",Dr G Medical Examiner
 https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="River Monsters by ITV Studios" tvg-logo="https://i.imgur.com/IKIE94s.png" group-title="Documentary",River Monsters by ITV Studios
+#EXTINF:-1 tvg-id="" tvg-name="River Monsters by ITV Studios" tvg-logo="https://i.imgur.com/IKIE94s.png" group-title="Lifestyle & Culture",River Monsters by ITV Studios
 https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Infast" tvg-logo="https://i.imgur.com/uhp1i46.png" group-title="Documentary",Infast
+#EXTINF:-1 tvg-id="" tvg-name="Infast" tvg-logo="https://i.imgur.com/uhp1i46.png" group-title="Lifestyle & Culture",Infast
 https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Inwild" tvg-logo="https://i.imgur.com/OLQMFpI.png" group-title="Documentary",Inwild
+#EXTINF:-1 tvg-id="" tvg-name="Inwild" tvg-logo="https://i.imgur.com/OLQMFpI.png" group-title="Lifestyle & Culture",Inwild
 https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="InTravel" tvg-logo="https://i.imgur.com/tN4hfjC.png" group-title="Travel",InTravel
+#EXTINF:-1 tvg-id="" tvg-name="InTravel" tvg-logo="https://i.imgur.com/tN4hfjC.png" group-title="Lifestyle & Culture",InTravel
 https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/8KHMfwg.png" group-title="Documentary",InTrouble
+#EXTINF:-1 tvg-id="" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/8KHMfwg.png" group-title="Lifestyle & Culture",InTrouble
 https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Documentary",History Hit
+#EXTINF:-1 tvg-id="" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Lifestyle & Culture",History Hit
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/N1Fnnu7.png" group-title="Documentary",Real Wild
+#EXTINF:-1 tvg-id="" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/N1Fnnu7.png" group-title="Lifestyle & Culture",Real Wild
 https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Adventure Earth" tvg-logo="https://i.imgur.com/d9y2wXp.png" group-title="Documentary",Adventure Earth
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Earth" tvg-logo="https://i.imgur.com/d9y2wXp.png" group-title="Lifestyle & Culture",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png" group-title="Documentary",Ax Men
+#EXTINF:-1 tvg-id="" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png" group-title="Series / TV Shows",Ax Men
 https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cops.us@SD" tvg-name="Cops" tvg-logo="https://i.imgur.com/iSNvZAW.png" group-title="Crime / Mystery",Cops
+#EXTINF:-1 tvg-id="Cops.us@SD" tvg-name="Cops" tvg-logo="https://i.imgur.com/iSNvZAW.png" group-title="Series / TV Shows",Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cosmic Frontiers" tvg-logo="https://i.imgur.com/ISRVw1g.png" group-title="Sci-Fi / Fantasy",Cosmic Frontiers
+#EXTINF:-1 tvg-id="" tvg-name="Cosmic Frontiers" tvg-logo="https://i.imgur.com/ISRVw1g.png" group-title="Lifestyle & Culture",Cosmic Frontiers
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Curiosity Now" tvg-logo="https://i.imgur.com/vPNLkn1.png" group-title="Educational",Curiosity Now
+#EXTINF:-1 tvg-id="" tvg-name="Curiosity Now" tvg-logo="https://i.imgur.com/vPNLkn1.png" group-title="Lifestyle & Culture",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/AYIbndw.png" group-title="Series / TV Shows",Glitch Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle & Culture",
+
+#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/AYIbndw.png" group-title="Lifestyle & Culture",Glitch Plus
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/2cmnvOg.png" group-title="Independent",Filmzie
+#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/2cmnvOg.png" group-title="Movies",Filmzie
 https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-################# KIDS & FAMILY #################
 
-#EXTINF:-1 group-title="Cartoons / Animation" tvg-logo="", AnimeX
+################# KIDS & FAMILY #################
+# All channels originally grouped as "KIDS & TEENS" are mapped to **Kids & Family**.
+
+#EXTINF:-1 group-title="Kids & Family" tvg-logo="", AnimeX
 https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8
 
-#EXTINF:-1 group-title="Cartoons / Animation" tvg-name="Aniplus" tvg-logo="", Aniplus
+#EXTINF:-1 group-title="Kids & Family" tvg-name="Aniplus" tvg-logo="", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="Cartoons / Animation" tvg-name="Aniplus" tvg-logo="", Aniplus
+#EXTINF:-1 group-title="Kids & Family" tvg-name="Aniplus" tvg-logo="", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="Cartoons / Animation" tvg-name="Ani-One" tvg-logo="https://deprecated.cc/tv/images/csAtXyPJ.png", Ani-One
+#EXTINF:-1 group-title="Kids & Family" tvg-name="Ani-One" tvg-logo="https://deprecated.cc/tv/images/csAtXyPJ.png", Ani-One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 group-title="Cartoons / Animation" tvg-name="Anime X Hidive" tvg-logo="https://deprecated.cc/tv/images/E1LIeR2.png", Anime X Hidive
+#EXTINF:-1 group-title="Kids & Family" tvg-name="Anime X Hidive" tvg-logo="https://deprecated.cc/tv/images/E1LIeR2.png", Anime X Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Children's Entertainment" tvg-name="Cartoon Network" tvg-logo="https://deprecated.cc/tv/images/R1fV2uY.png", Cartoon Network
+#EXTINF:-1 group-title="Kids & Family" tvg-name="Cartoon Network" tvg-logo="https://deprecated.cc/tv/images/R1fV2uY.png", Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
 
-#EXTINF:-1 group-title="Children's Entertainment" tvg-name="Disney" tvg-logo="https://deprecated.cc/tv/images/NVRbZfJ.png", Disney
+#EXTINF:-1 group-title="Kids & Family" tvg-name="Disney" tvg-logo="https://deprecated.cc/tv/images/NVRbZfJ.png", Disney
 https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Educational Kids' Shows" tvg-name="PBS Kids" tvg-logo="https://deprecated.cc/tv/images/RNtLJ3S.png", PBS Kids
+#EXTINF:-1 group-title="Kids & Family" tvg-name="PBS Kids" tvg-logo="https://deprecated.cc/tv/images/RNtLJ3S.png", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
-
-
