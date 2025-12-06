@@ -2,7 +2,6 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/all.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/philippines1.xml.gz, https://www.open-epg.com/files/philippines2.xml.gz, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml, https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml, https://epg.pw/xmltv/epg_PH.xml, https://tinyurl.com/merged2423-epg, https://tinyurl.com/DrewLive002-epg, https://iptv-epg.org/files/epg-all.xml.gz, https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml, https://raw.githubusercontent.com/globetvapp/epg/main/index.xml, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz" refresh="3600"
 
-################# SERIES / TV SHOWS (Reality TV) ###############
 
 #EXTINF:-1 tvg-id="" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png" group-title="Series / TV Shows",Torque
 https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
@@ -25,7 +24,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="" tvg-name="American Ninja Warrior" tvg-logo="https://i.imgur.com/byRY9gG.png" group-title="Series / TV Shows",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png" group-title="Series / TV Shows",Monster Jam
+#EXTINF:-1 tvg-id="" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png" group-title="Sports",Monster Jam
 https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="Series / TV Shows",Hell's Kitchen 1
@@ -34,14 +33,17 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885521/hls/master.m3u8?withResolut
 #EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" group-title="Series / TV Shows",Hell's Kitchen 2
 https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="https://i.imgur.com/WQXccaL.png" group-title="Series / TV Shows",Tiny House Nation
+#EXTINF:-1 tvg-id="" tvg-name="Tiny House Nation" tvg-logo="https://i.imgur.com/WQXccaL.png" group-title="Lifestyle & Culture",Tiny House Nation
 https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Home Made Nation" tvg-logo="https://i.imgur.com/z22SwUT.png" group-title="Series / TV Shows",Home Made Nation
+#EXTINF:-1 tvg-id="" tvg-name="Home Made Nation" tvg-logo="https://i.imgur.com/z22SwUT.png" group-title="Lifestyle & Culture",Home Made Nation
 https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="Lifestyle & Culture",TasteMade
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="Lifestyle & Culture",TasteMade 1
 https://amg00047-tastemade-tmintleng-xiaomi-u5r78.amagi.tv/ts-us-e2-n1/playlist/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TasteMade" tvg-logo="https://i.imgur.com/x7lCizL.png" group-title="Lifestyle & Culture",TasteMade 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TasteMade Home" tvg-logo="https://i.imgur.com/FciqOFP.png" group-title="Lifestyle & Culture",TasteMade Home
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
@@ -52,7 +54,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelengl
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-name="Duck Dynasty" tvg-logo="https://i.imgur.com/3XCB8cQ.png" group-title="Series / TV Shows",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Series / TV Shows",Mythbusters
+
+#EXTINF:-1 tvg-id="" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Lifestyle & Culture",Mythbusters
 https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Series / TV Shows",Survivor 1
@@ -82,38 +85,34 @@ https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="" tvg-name="Don't Tell the Bride" tvg-logo="https://i.imgur.com/h0bc3Fa.png" group-title="Series / TV Shows",Don't Tell the Bride
 https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Masterchef" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Series / TV Shows",Masterchef
+#EXTINF:-1 tvg-id="" tvg-name="Masterchef" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Lifestyle & Culture",Masterchef
 https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="World of Love Island" tvg-logo="https://i.imgur.com/yos8i8j.png" group-title="Series / TV Shows",World of Love Island
+#EXTINF:-1 tvg-id="" tvg-name="World of Love Island" tvg-logo="https://i.imgur.com/yos8i8j.png" group-title="Series / TV Shows",World of Love Island 
 https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="The Hotel Inspector" tvg-logo="https://images.fanart.tv/bigpreview/the-hotel-inspector-68835a5762ad2.png" group-title="Series / TV Shows",The Hotel Inspector
+#EXTINF:-1 tvg-id="" tvg-name="The Hotel Inspector" tvg-logo="https://images.fanart.tv/bigpreview/the-hotel-inspector-68835a5762ad2.png" group-title="Series / TV Shows",The Hotel Inspector 
 https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Antiques Road Trip" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Series / TV Shows",Antiques Road Trip
+#EXTINF:-1 tvg-id="" tvg-name="Antiques Road Trip" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Lifestyle & Culture",Antiques Road Trip
 https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="https://i.imgur.com/FGpda9j.png" group-title="Series / TV Shows",Come Dine With Me
 https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Series / TV Shows",Pet Club TV
+#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Lifestyle & Culture",Pet Club TV
 https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Real Crime" tvg-logo="https://i.imgur.com/eCt3sFq.png" group-title="Series / TV Shows",Real Crime
 https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="Series / TV Shows",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
+    
 
-
-################# LIFESTYLE & CULTURE (Documentary) #################
-
-
-#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Lifestyle & Culture",Dr G Medical Examiner
+#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="Series / TV Shows",Dr G Medical Examiner
 https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/2641f998-637f-48e7-96bb-25cef625bfef/4.m3u8
-https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/46813d5b-8918-4044-855a-5cd973f36e8f/4.m3u8
-https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="River Monsters by ITV Studios" tvg-logo="https://i.imgur.com/IKIE94s.png" group-title="Lifestyle & Culture",River Monsters by ITV Studios
 https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
@@ -130,6 +129,9 @@ https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/8KHMfwg.png" group-title="Lifestyle & Culture",InTrouble
 https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="InWonder" tvg-logo="https://i.imgur.com/uoIM2U9.png" group-title="Lifestyle & Culture",InWonder
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Lifestyle & Culture",History Hit
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
 
@@ -139,49 +141,173 @@ https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="Adventure Earth" tvg-logo="https://i.imgur.com/d9y2wXp.png" group-title="Lifestyle & Culture",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png" group-title="Lifestyle & Culture",Ax Men
+#EXTINF:-1 tvg-id="" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png" group-title="Series / TV Shows",Ax Men
 https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cops.us@SD" tvg-name="Cops" tvg-logo="https://i.imgur.com/iSNvZAW.png" group-title="Lifestyle & Culture",Cops
+#EXTINF:-1 tvg-id="Cops.us@SD" tvg-name="Cops" tvg-logo="https://i.imgur.com/iSNvZAW.png" group-title="Series / TV Shows",Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cosmic Frontiers" tvg-logo="https://i.imgur.com/ISRVw1g.png" group-title="Lifestyle & Culture",Cosmic Frontiers
+#EXTINF:-1 tvg-id="" tvg-name="Cosmic Frontiers" tvg-logo="https://i.imgur.com/ISRVw1g.png" group-title="Special Interest",Cosmic Frontiers
 https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Curiosity Now" tvg-logo="https://i.imgur.com/vPNLkn1.png" group-title="Lifestyle & Culture",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle & Culture",
 
-#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/AYIbndw.png" group-title="Lifestyle & Culture",Glitch Plus
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/AYIbndw.png",Glitch Plus
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Glitch Plus" tvg-logo="https://i.imgur.com/2cmnvOg.png" group-title="Movies",Filmzie
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-name="Filmzie" tvg-logo="https://i.imgur.com/2cmnvOg.png",Filmzie
 https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-################# KIDS & FAMILY (Cartoons / Animation) #################
-
-#EXTINF:-1 group-title="Kids & Family" tvg-logo="", AnimeX
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="AnimeX" tvg-logo="", AnimeX
 https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="Aniplus" tvg-logo="", Aniplus
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="Aniplus" tvg-logo="", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="Aniplus" tvg-logo="", Aniplus
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="Aniplus" tvg-logo="", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="Ani-One" tvg-logo="https://deprecated.cc/tv/images/csAtXyPJ.png", Ani-One
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="Ani-One" tvg-logo="https://deprecated.cc/tv/images/csAtXyPJ.png", Ani-One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="Anime X Hidive" tvg-logo="https://deprecated.cc/tv/images/E1LIeR2.png", Anime X Hidive
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="Anime X Hidive" tvg-logo="https://deprecated.cc/tv/images/E1LIeR2.png", Anime X Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="Cartoon Network" tvg-logo="https://deprecated.cc/tv/images/R1fV2uY.png", Cartoon Network
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="Cartoon Network" tvg-logo="https://deprecated.cc/tv/images/R1fV2uY.png", Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_2000000=10-mp4a_256000_eng=6.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="Disney" tvg-logo="https://deprecated.cc/tv/images/NVRbZfJ.png", Disney
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="Disney" tvg-logo="https://deprecated.cc/tv/images/NVRbZfJ.png", Disney
 https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Kids & Family" tvg-name="PBS Kids" tvg-logo="https://deprecated.cc/tv/images/RNtLJ3S.png", PBS Kids
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="PBS Kids" tvg-logo="https://deprecated.cc/tv/images/RNtLJ3S.png", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-name="Alien Nation" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/alien-nation.jpg",Alien Nation
+https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Always Funny Videos" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/alwaysfunny.jpg",Always Funny Videos
+https://linear-12.frequency.stream/dist/vizio/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Combat War Channel" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/combat-war.jpg",Combat War Channel
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885558/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885558
+
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-name="Alien Nation" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/alien-nation.jpg",Alien Nation
+https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="BBC Food" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/bbc-food.jpg",BBC Food
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Cheaters" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/cheaters.jpg",Cheaters
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885566/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885566
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Combat War Channel" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/combat-war.jpg",Combat War Channel
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885558/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885558
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Divorce Court" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/divorce_court.png",Divorce Court
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885507/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885507
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Doctor Who Classic" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/doctor-who.jpg",Doctor Who Classic
+https://ca4b62de2f4340fbb82d814c883cd008.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_ClassicDoctorWho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="FailArmy" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/fail_army.jpeg",FailArmy
+https://482d9335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRmFpbEFybXlfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Ice Road Truckers" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg",Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="Gardening with Monty Don" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/gardening-with-monty-don.jpg",Gardening with Monty Don
+https://7eee4769231948098e0ef1b01e1395aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_GardeningwithMontyDon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Forensic Files" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/forensnic_files.png",Forensic Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885516/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885516
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="GustoTV" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/home-and-food/gusto_tv.jpeg",GustoTV
+https://100c56710aec499b9f9e71a7cc5d3940.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_GustoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-name="Hallmark Movies & More" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/thumbnail.png",Hallmark Movies & More
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885520/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885520
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Ice Road Truckers" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg",Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Jail" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/crime/jail-2.jpg",Jail
+https://4d382096a253412bbea5672515de1ec7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Jail/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Kevin Hart's LOL! Network" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/comedy/kevinhart.jpg",Kevin Hart's LOL! Network
+https://7f4538d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTE9MTmV0d29ya19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Mansa Mix" tvg-logo="https://i.postimg.cc/NMcsHcp7/Watch-Free.png",Mansa Mix
+https://d6293d99c2c045a582e615a5ea1e6775.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_MansaMix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="MavTV Select" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/mav_tv.png",MavTV Select
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="Modern Marvels presented by History" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/modern-marvels-2.jpg",Modern Marvels presented by History
+https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="MSG SportsZone" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/MSGSPORTSZONE_Discover_Image.jpg",MSG SportsZone
+https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="Nature Moments by Love Nature" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/nature-moments.jpg",Nature Moments by Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturemomentsuhd-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Nosey" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/game-shows-and-reality/nosey.jpeg",Nosey
+https://6844fef9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTm9zZXlfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="Overtime" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/overtime.jpg",Overtime
+https://761ea40fc4384b73a8dac2975eae2718.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Overtime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="PAC12 Insider" tvg-logo="https://i.postimg.cc/NMcsHcp7/Watch-Free.png",PAC12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Paranormal Files" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/paranormal_files.png",Paranormal Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885527/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885527
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="Players TV" tvg-logo="https://i.postimg.cc/NMcsHcp7/Watch-Free.png",Players TV
+https://linear-656.frequency.stream/dist/vizio/656/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="Professional Fighters League" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/pfl-professional-fighters-league.jpg",Professional Fighters League
+https://c27dfe8a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUEZMTU1BX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="Swerve Combat" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/swerve-combat.jpg",Swerve Combat
+https://linear-253.frequency.stream/dist/vizio/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Kids & Family" tvg-name="The Pet Collective" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/the-pet-collective.jpg",The Pet Collective
+https://5bcb335914e34d4fbf017a3636b2a45a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ThePetCollective-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="The Walking Dead Universe" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/amcn-twdu_vizio_discoveryon_378x216_v01.jpg",The Walking Dead Universe
+https://3544bb307ed14ee28dc1e02dfc7056be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TWDUniverseExperience/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="True History" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/truehistory.jpg",True History
+https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="UnXplained Zone" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/unxplainedzone.jpg",UnXplained Zone
+https://2fb56834.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="World Poker Tour" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/wpt.jpeg",World Poker Tour
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="World's Most Evil Killers" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/evil-killers.jpg",World's Most Evil Killers
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885565/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885565
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="Xplore" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/xplore.jpeg",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-xplore-vizio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="Bondi Vet" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA4700001HY_20230726T002716SQUARE.png_20230726002717.png",Bondi Vet
+https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="Baywatch" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBB4800005IG_20230726T002713SQUARE.png_20230726002714.png",Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series / TV Shows" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC22000057Z_20230726T002808SQUARE.png_20230726002809.png",The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="NatureTime" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC4100003AT_20230726T002755SQUARE.png_20230726002756.png",NatureTime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lifestyle & Culture" tvg-name="Waterbear" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC2200004T9_20230726T002816SQUARE.png_20230726002817.png",Waterbear
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear
