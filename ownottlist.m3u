@@ -4,6 +4,7 @@
 
 
 
+
 ################# REALITY SHOWS ###############
 
 #EXTINF:-1 tvg-id="" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png" group-title="REALITY SHOWS",Torque
@@ -107,8 +108,6 @@ https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
 https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="REALITY SHOWS",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
     
@@ -116,12 +115,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 ################# DOCUMENTARY #################
 
 
-#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="SAMSUNGTV+ PH",Dr G Medical Examiner
+#EXTINF:-1 tvg-id="Dr G Medical Examiner" tvg-name="Dr G Medical Examiner" tvg-logo="" group-title="",Dr G Medical Examiner
 https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/2641f998-637f-48e7-96bb-25cef625bfef/4.m3u8
-https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/46813d5b-8918-4044-855a-5cd973f36e8f/4.m3u8 playlist.m3u8
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/46813d5b-8918-4044-855a-5cd973f36e8f/4.m3u8
 https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY",
 
 #EXTINF:-1 tvg-id="" tvg-name="River Monsters by ITV Studios" tvg-logo="https://i.imgur.com/IKIE94s.png" group-title="DOCUMENTARY",River Monsters by ITV Studios
 https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
