@@ -386,6 +386,21 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="99951207" tvg-name="Fifth Gear" tvg-logo="https://i.postimg.cc/d0jJpJtY/Fifth-Gear.png" group-title="Automotive",Fifth Gear
+https://live-content.xumo.com/3867/content/XM06I6C90IE2BY/24889763/master.m3u8
+
+#EXTINF:-1 tvg-id="99991325" tvg-name="Motorvision" tvg-logo="https://i.postimg.cc/YqHbqktV/Motor-Vision.png" group-title="Automotive",Motorvision
+https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?includeAssetTags=true&ads.xumo_channelId=99991325&ads._fw_ifa_type=&ads._fw_did=60b12ba6-6768-46a9-92d2-14cdf05db208&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Motorvision&ads.csid=xumo_web_Motorvision_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads._fw_deviceMake=GitHubAction&ads._fw_devi
+
+#EXTINF:-1 tvg-id="99991291" tvg-name="PowerNation" tvg-logo="https://i.postimg.cc/VksgnRrW/Power-Nation.png" group-title="Automotive",PowerNation
+https://live-content.xumo.com/224/content/XM02MY02R1ATFC/22445975/master.m3u8
+
+#EXTINF:-1 tvg-id="99951269" tvg-name="Racer Select" tvg-logo="https://i.postimg.cc/7YCBx7m1/Racer-Select.png" group-title="Automotive",Racer Select
+https://dbrb49pjoymg4.cloudfront.net/10001/99951269/hls/playlist.m3u8?ads.xumo_channelId=99951269&ads._fw_ifa_type=&ads._fw_did=c69ea4df-da50-430a-9dcf-897cfeaea357&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=MAVTVSelect&ads.csid=xumo_web_MAVTVSelect_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3974&ads.xumo_contentName=MAVTVSelect&ads.xumo_providerId=3974&ads.xumo_providerName=MAVTVSelect&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=Pytho
+
+#EXTINF:-1 tvg-id="99951268" tvg-name="SpeedVision" tvg-logo="https://i.postimg.cc/d386mNj4/SV.png" group-title="Automotive",SpeedVision
+https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268&ads._fw_ifa_type=&ads._fw_did=5573d138-5b6c-4b90-a5b3-517f5caef23d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SPEEDVISION&ads.csid=xumo_web_SPEEDVISION_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3973&ads.xumo_contentName=SPEEDVISION&ads.xumo_providerId=3973&ads.xumo_providerName=SPEEDVISION&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=Pytho
+
 
 
 
