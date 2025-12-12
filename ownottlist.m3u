@@ -79,7 +79,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title=LOCAL CH", TV5
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="LOCAL CH", TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -257,7 +257,7 @@ https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/8KHMfwg.png",InTrouble
 https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-name="InWonder" tvg-logo="https://i.imgur.com/uoIM2U9.png",InWonder
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="InWonder" tvg-logo="https://i.imgur.com/uoIM2U9.png",InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png",History Hit
