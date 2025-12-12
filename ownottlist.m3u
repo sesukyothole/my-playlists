@@ -216,13 +216,12 @@ https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
     
-#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/S8FF28E.png" ,History
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/S8FF28E.png",History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
 #EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
