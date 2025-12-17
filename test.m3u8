@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTM3U EPG url-tvg="https://www.open-epg.com/files/korea1.xml.gz", billed-msg="Korean IPTV 2.0 by Aly/hyunakim1992" 
 
 #EXTINF:-1 ch-number="1" tvg-id="DUMMY" tvg-logo="https://i.ibb.co/FqZfDsJ/image.png" group-title="Intro",Korean IPTV 2.0 by Aly/hyunakim1992 
