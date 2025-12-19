@@ -311,6 +311,9 @@ https://hide.skygoplus.workers.dev/discovery-channel.m3u8
 #EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/discovery-science.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="" tvg-logo="https://i.imgur.com/ObPFgT8.png", Discovery Life
+https://stream1.freetv.fun/discovery-life-3.ctv
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pzFuuoC.png" group-title="DOCUMENTARY",Crime + Investigation
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -323,6 +326,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PZRQvFv.png" group-title="DOCUMENTARY", Timeline
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+
 
 
 
@@ -364,6 +368,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-name="" tvg-logo="https://i.imgur.com/jcIprmt.png", Ryan and Friends
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png", Cartoonito
+https://stream1.freetv.fun/cartoonito--tt-1.m3u8
 
 
 
@@ -555,8 +562,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png", HBO Zone
-https://stream1.freetv.fun/hbo-zone-7.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png", HBO Xtreme
+https://stream1.freetv.fun/hbo-xtreme-4.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",Cinemax
