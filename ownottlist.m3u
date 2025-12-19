@@ -135,6 +135,9 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Monster Jam" tvg-logo="https://i.imgur.com/9BAhVyf.png",Monster Jam
 https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
 
+#EXTINF:-1  tvg-name=" tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-title="REALITY SHOWS",Monster Jam
+https://stitcher.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
+
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Hells Kitchen" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png",Hell's Kitchen 1
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885521/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885521
 
@@ -244,6 +247,15 @@ https://jmp2.uk/str-6424.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="REALITY SHOWS",Automotions
 https://jmp2.uk/str-5721.m3u8
+
+
+#EXTINF:-1  tvg-name="" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="REALITY SHOWS",MotorTrend FAST TV
+https://stitcher.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
+
+#EXTINF:-1  tvg-name="" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png"  group-title="REALITY SHOWSS",POWERNATION
+https://stitcher.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093
+
+
 
 
 
@@ -942,14 +954,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/661827ffe8fba800086b217d/master.m3u
 #EXTINF:-1  tvg-name="" tvg-id="6675b8ccca74680008563c24" tvg-logo="https://images.pluto.tv/channels/6675b8ccca74680008563c24/colorLogoPNG.png" group-title="SPORTS",Speed Sport 1
 https://stitcher.pluto.tv/stitch/hls/channel/6675b8ccca74680008563c24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
 
-#EXTINF:-1  tvg-name=" tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-title="SPORTS",Monster Jam
-https://stitcher.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
 
-#EXTINF:-1  tvg-name="" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="SPORTS",MotorTrend FAST TV
-https://stitcher.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
 
-#EXTINF:-1  tvg-name="" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png"  group-title="SPORTS",POWERNATION
-https://stitcher.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093
 
 
 
