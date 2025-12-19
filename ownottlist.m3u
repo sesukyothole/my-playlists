@@ -650,6 +650,12 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV *tv
+https://stream1.freetv.fun/nba-tv--tv-1.ctv
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="SPORTS", PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
