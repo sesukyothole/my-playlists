@@ -257,10 +257,11 @@ https://jmp2.uk/str-5721.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="REALITY SHOWS",MotorTrend FAST TV
 https://stitcher.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
 
-#EXTINF:-1  tvg-name="" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png"  group-title="REALITY SHOWS",POWERNATION
+#EXTINF:-1  tvg-name="" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="REALITY SHOWS",POWERNATION
 https://stitcher.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093
 
-
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-logo="https://i.postimg.cc/2j41tzkf/Pursuit-Up.png",PursuitUp HD
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 
 
