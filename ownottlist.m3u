@@ -737,6 +737,17 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/Ym32WqZ.png", RageTV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/b4rjf8n.png", MovieBoxPh
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/OCS1l7G.jpeg", 3rsSinePinoy
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg", Movies Action
+https://raw.githubusercontent.com/mystery75/m3u8/main/UNIVERSALMOV.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-box-mn.png", AsianBOX
+https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 
 
