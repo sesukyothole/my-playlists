@@ -985,14 +985,97 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_c
 
 
 
-
-
-
-
 # NEWS
 
 #EXTINF:-1 tvg-id="Euronews World" tvg-name="Euronews World" tvg-logo="" group-title="NEWS",Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist1080p.m3u8
+
+
+
+
+
+
+
+
+
+
+################# XBiGBoY ################## 
+
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",MensNeco
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",Pigoo
+https://nl.utako.moe/pigoo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",Blu3 Hu5tler
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
+
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",BabesTV 1
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes-avc1_3000000=8-mp4a_256000_eng=7.m3u8
+
+#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",BabesTV 2
+#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://hide.skygoplus.workers.dev/babes-tv-18.m3u8
+
+
+#EXTINF:-1 tvg-name="AdultIPTV Anal" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Anal
+https://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Asian" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Asian
+https://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Big Ass" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Big Ass
+https://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Big Dick" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Big Dick
+https://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Big Tits" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Big Tits
+https://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Blonde" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Blonde
+https://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Blowjob" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Blowjob
+https://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Brunette" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Brunette
+https://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV ompilation" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Compilation
+https://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Cuckold" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Cuckold
+https://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Fetish" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Fetish
+https://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Gangbang" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Gangbang
+https://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Gay" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"  group-title="Gay", Gay
+https://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Hardcore" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Hardcore
+https://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Interracial" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Interracial
+https://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Lesbian" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"  group-title="Lesbian", Lesbian
+https://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Live Cams" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Live Cams
+https://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV MILF" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", MILF
+https://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Pornstar" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Pornstar
+https://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV POV" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", POV
+https://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Rough" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Rough
+https://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Teen" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Teen
+https://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-name="AdultIPTV Threesome" tvg-logo="https://i.postimg.cc/TwnNv8s4/Adult-IPTV.png"group-title="XBiGBoY", Threesome
+https://live.adultiptv.net/threesome.m3u8
+
+
+
+
 
 
 
