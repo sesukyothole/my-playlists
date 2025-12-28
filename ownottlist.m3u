@@ -21,6 +21,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/beacon?rp=https://cdn-uw2-prod.tsv2.amagi.tv/
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
 
+#EXTINF:-1 group-title="LOCAL CH"  tvg-id="ANC.HD.ph" tvg-logo="https://i.imgur.com/Bcu69bU.png" ,ANC HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
+
 #EXTINF:-1 group-title="LOCAL CH" tvg-id="" tvg-logo="https://i.imgur.com/vm9Z0uV.png",Channel News Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
