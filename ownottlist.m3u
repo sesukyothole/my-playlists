@@ -253,6 +253,9 @@ https://jmp2.uk/str-6424.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="REALITY SHOWS",Automotions
 https://jmp2.uk/str-5721.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/3CTudqH.png" group-title="REALITY SHOWS" ,SpeedVision
+https://2535b897.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfU3BlZWR2aXNpb25fSExT/playlist.m3u8
+
 
 #EXTINF:-1  tvg-name="" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="REALITY SHOWS",MotorTrend FAST TV
 https://stitcher.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
