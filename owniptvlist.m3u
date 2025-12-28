@@ -3316,31 +3316,6 @@ https://converse.nathcreqtives.com/1147/manifest.mpd
 
 
 
-################# XBiGBoY ################## 
-
-#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",MensNeco
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
-
-#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",Pigoo
-https://nl.utako.moe/pigoo/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",Blu3 Hu5tler
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
-
-#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",BabesTV 1
-https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes-avc1_3000000=8-mp4a_256000_eng=7.m3u8
-
-#EXTINF:-1 tvg-id="XBiGBoY" tvg-logo="https://i.imgur.com/Z7trxue.png" group-title="XBiGBoY",BabesTV 2
-#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
-https://hide.skygoplus.workers.dev/babes-tv-18.m3u8
 
 
 
