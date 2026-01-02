@@ -763,100 +763,94 @@ https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 
 
-#EXTINF:0, tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="MOVIES",HBO Plus
+#EXTINF:-1 tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="MOVIES",HBO Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/ww8jPKB.png" group-title="MOVIES",HBO2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ww8jPKB.png" group-title="MOVIES",HBO2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/Y6164V7.png" group-title="MOVIES",HBO Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6164V7.png" group-title="MOVIES",HBO Pop
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
-#EXTINF:0, tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="MOVIES",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="MOVIES",HBO Xtreme
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
-#EXTINF:0, tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="MOVIES",HBO Xtreme
+#EXTINF:1, tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="MOVIES",HBO Xtreme
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/2/studio-universal-logo-png_seeklogo-314574.png" group-title="MOVIES",STUDIO UNIVERSAL 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:0, tvg-logo="https://images.seeklogo.com/logo-png/31/2/studio-universal-logo-png_seeklogo-314574.png" group-title="MOVIES",STUDIO UNIVERSAL 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="MOVIES",Cineedge
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:0, tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="MOVIES",Cineedge
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy.png", Galaxy V+
+#EXTINF:1, group-title="MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy.png", Galaxy V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#EXTINF:0, tvg-id="" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png" group-title="MOVIES",Galaxy Premium V+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png" group-title="MOVIES",Galaxy Premium V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-#EXTINF:0, tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png" group-title="MOVIES",Superrix
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png" group-title="MOVIES",Superrix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#EXTINF:0, tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png" group-title="MOVIES",Uniques
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png" group-title="MOVIES",Uniques
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#EXTINF:0, tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/originals.png" group-title="MOVIES",Originals
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/originals.png" group-title="MOVIES",Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#EXTINF:0, tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1212px-Logo_Studio_Universal.svg.png" group-title="MOVIES", STUDIO UNIVERSAL 
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/originals.png", Cinemachi-HD
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png", Cinemachi-Acti
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png", Cinemachi-Max-HD
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png", Cinemachi-Xtra-HD
-
-#EXTINF:0, group-title="MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN V+
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="MOVIES",Thriil
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
