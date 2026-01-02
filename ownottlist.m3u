@@ -54,7 +54,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="LOCAL CH", GMA 7
+#EXTINF:-1 tvg-id="GMA 7" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="LOCAL CH", GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
+
+#EXTINF:-1 tvg-id="GMA 7" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="LOCAL CH", GMA 7 (2)
+https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="LOCAL CH", GMA 7 (3)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
