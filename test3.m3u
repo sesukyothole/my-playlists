@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1,ABC HD (East)
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1,ACCN HD
+http://143.244.60.30/ACC_NETWORK/index.m3u8
+#EXTINF:-1,AMC HD
+http://143.244.60.30/AMC_NETWORK/index.m3u8
+#EXTINF:-1,American Heroes Channel HD
+http://143.244.60.30/American_Heroes_Channel/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://143.244.60.30/Animal_Planet/index.m3u8
+#EXTINF:-1,Aspire HD
+http://143.244.60.30/Aspire/index.m3u8
+#EXTINF:-1,BBC (World) News HD
+http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1,BBC America HD
+http://143.244.60.30/BBC_AMERICA/index.m3u8
+#EXTINF:-1,beIN Sports HD
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1,BET Gospel
+http://143.244.60.30/BET_GOSPEL/index.m3u8
+#EXTINF:-1,BET HD (East)
+http://143.244.60.30/BET_EAST/index.m3u8
+#EXTINF:-1,BET Her HD
+http://143.244.60.30/BET_HER/index.m3u8
+#EXTINF:-1,BET Jams
+http://143.244.60.30/BET_Jams/index.m3u8
+#EXTINF:-1,BET Soul
+http://143.244.60.30/BET_SOUL/index.m3u8
+#EXTINF:-1,Big 10 Network HD
+http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1,Bloomberg HD
+http://143.244.60.30/BLOOMBERG/index.m3u8
+#EXTINF:-1,Bounce HD
+http://143.244.60.30/BOUNCE_TV/index.m3u8
+#EXTINF:-1,Bravo HD
+http://143.244.60.30/BRAVO/index.m3u8
+#EXTINF:-1,Buzzr HD
+http://143.244.60.30/Buzzr/index.m3u8
+#EXTINF:-1,CBS (East)
+http://143.244.60.30/CBSEAST/index.m3u8
+#EXTINF:-1,CBS Sports HD
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://143.244.60.30/CINEMAX/index.m3u8
+#EXTINF:-1,Cinemax HD (East)
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
+#EXTINF:-1,Cleo TV HD
+http://143.244.60.30/Cleo_TV/index.m3u8
+#EXTINF:-1,CNBC HD
+http://143.244.60.30/CNBC/index.m3u8
+#EXTINF:-1,CNN HD
+http://143.244.60.30/CNN/index.m3u8
+#EXTINF:-1,Comet HD
+http://143.244.60.30/COMET/index.m3u8
+#EXTINF:-1,Court TV
+http://143.244.60.30/COURT_TV/index.m3u8
+#EXTINF:-1,Cozi TV HD
+http://143.244.60.30/COZI_TV/index.m3u8
+#EXTINF:-1,C-SPAN HD
+http://143.244.60.30/C-SPAN/index.m3u8
+#EXTINF:-1,CTV Nature HD
+http://143.244.60.30/Discovery_Science/index.m3u8
+#EXTINF:-1,Discovery Family HD
+http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1,Discovery HD
+http://143.244.60.30/Discovery_Channel/index.m3u8
+#EXTINF:-1,Discovery Life
+http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1,Disney Jr. HD
+http://143.244.60.30/DISNEY_JR/index.m3u8
+#EXTINF:-1,Disney XD HD
+http://143.244.60.30/DISNEY_XD/index.m3u8
+#EXTINF:-1,E! HD
+http://143.244.60.30/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1,ESPNews HD
+http://143.244.60.30/ESPN_NEWS/index.m3u8
+#EXTINF:-1,ESPNU HD
+http://143.244.60.30/ESPN_U/index.m3u8
+#EXTINF:-1,Food Network HD
+http://143.244.60.30/FOOD_NETWORK/index.m3u8
+#EXTINF:-1,FOX Business Network HD
+http://143.244.60.30/FOX_Business_Network/index.m3u8
+#EXTINF:-1,Freeform HD
+http://143.244.60.30/FREE_FORM/index.m3u8
+#EXTINF:-1,FS1
+http://143.244.60.30/FOX_Sports_1/index.m3u8
+#EXTINF:-1,Fuse HD
+http://143.244.60.30/FUSE/index.m3u8
+#EXTINF:-1,FX HD
+http://143.244.60.30/FX/index.m3u8
+#EXTINF:-1,FXM HD
+http://143.244.60.30/FX_MOVIE/index.m3u8
+#EXTINF:-1,FYI HD
+http://143.244.60.30/FYI/index.m3u8
+#EXTINF:-1,Get HD
+http://143.244.60.30/GET_TV/index.m3u8
+#EXTINF:-1,Grit HD
+http://143.244.60.30/GRIT_TV/index.m3u8
+#EXTINF:-1,Hallmark Channel HD
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1,Hallmark Family HD
+http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://143.244.60.30/HBO_2/index.m3u8
+#EXTINF:-1,HBO Family
+http://143.244.60.30/HBO_FAMILY/index.m3u8
+#EXTINF:-1,HBO HD
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1,HBO Zone HD
+http://143.244.60.30/HBO_ZONE/index.m3u8
+#EXTINF:-1,HLN HD
+http://143.244.60.30/HLN/index.m3u8
+#EXTINF:-1,HSN HD
+http://143.244.60.30/HSN/index.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1,Ion HD
+http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1,Lifetime HD
+http://143.244.60.30/LIFETIME/index.m3u8
+#EXTINF:-1,Magnolia Network HD
+http://143.244.60.30/DIY/index.m3u8
+#EXTINF:-1,MeTV
+http://143.244.60.30/ME_TV/index.m3u8
+#EXTINF:-1,MGM+ Drive-In HD
+http://143.244.60.30/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1,MGM+ HD
+http://143.244.60.30/EPIX/index.m3u8
+#EXTINF:-1,MGM+ Hits HD
+http://143.244.60.30/EPIX_2/index.m3u8
+#EXTINF:-1,MGM+ Marquee HD
+http://143.244.60.30/EPIX_HITS/index.m3u8
+#EXTINF:-1,MLB Network HD
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MotorTrend HD
+http://143.244.60.30/MOTOR_TREND/index.m3u8
+#EXTINF:-1,MSG HD
+http://143.244.60.30/MSG/index.m3u8
+#EXTINF:-1,MSNBC HD
+http://143.244.60.30/MSNBC/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://143.244.60.30/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://143.244.60.30/National_Geographic/index.m3u8
+#EXTINF:-1,NBA TV HD
+http://143.244.60.30/NBA_TV/index.m3u8
+#EXTINF:-1,NBCSN
+http://143.244.60.30/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,NewsNation HD
+http://143.244.60.30/NEWS_NATION/index.m3u8
+#EXTINF:-1,NFL Network HD
+http://143.244.60.30/NFL_NETWORK/index.m3u8
+#EXTINF:-1,Outdoor Channel HD
+http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1,Ovation
+http://143.244.60.30/Ovation/index.m3u8
+#EXTINF:-1,OWN HD
+http://143.244.60.30/OWN/index.m3u8
+#EXTINF:-1,Oxygen HD
+http://143.244.60.30/OXYGEN/index.m3u8
+#EXTINF:-1,Paramount Network HD
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,Paramount+ with Showtime HD
+http://143.244.60.30/SHOWTIME/index.m3u8
+#EXTINF:-1,QVC HD
+http://143.244.60.30/QVC/index.m3u8
+#EXTINF:-1,Revolt HD
+http://143.244.60.30/REVOLT/index.m3u8
+#EXTINF:-1,Showtime 2 HD
+http://143.244.60.30/SHOWTIME_2/index.m3u8
+#EXTINF:-1,Showtime Extreme HD
+http://143.244.60.30/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1,Showtime Next HD
+http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,Showtime Women HD
+http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1,Smithsonian Channel HD
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1,Stadium
+http://143.244.60.30/STADIUM/index.m3u8
+#EXTINF:-1,Starz Comedy HD
+http://143.244.60.30/STARZ_COMEDY/index.m3u8
+#EXTINF:-1,Starz Edge HD
+http://143.244.60.30/STARZ_EDGE/index.m3u8
+#EXTINF:-1,Starz Encore Classic HD
+http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1,Starz Encore Westerns HD
+http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1,Starz HD
+http://143.244.60.30/STARZ/index.m3u8
+#EXTINF:-1,Sundance HD
+http://143.244.60.30/SUNDANCE/index.m3u8
+#EXTINF:-1,TBS HD
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1,TCM HD
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:-1,TLC HD
+http://143.244.60.30/TLC/index.m3u8
+#EXTINF:-1,Travel Channel
+http://143.244.60.30/Travel_Channel/index.m3u8
+#EXTINF:-1,TSN 1 HD
+http://143.244.60.30/TSN_1/index.m3u8
+#EXTINF:-1,TSN 2 HD
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1,TSN 3 HD
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1,TSN 5 HD
+http://143.244.60.30/TSN_5/index.m3u8
+#EXTINF:-1,TV One HD
+http://143.244.60.30/TV_ONE/index.m3u8
+#EXTINF:-1,UFC TV HD
+http://143.244.60.30/UFC/index.m3u8
+#EXTINF:-1,Vice Sports HD
+http://143.244.60.30/VICELAND/index.m3u8
+#EXTINF:-1,WeTV HD
+http://143.244.60.30/WE_TV/index.m3u8
+#EXTINF:-1,WGN HD
+http://143.244.60.30/WGN/index.m3u8
+#EXTINF:-1,World Fishing Network HD
+http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1,YES Network HD
+http://143.244.60.30/YES_NETWORK/index.m3u8
