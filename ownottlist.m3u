@@ -1236,9 +1236,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
-https://stream1.freetv.fun/spotv-3.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1246,8 +1243,7 @@ https://stream1.freetv.fun/spotv-3.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
-https://stream1.freetv.fun/spotv-2-2.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gfFaRwH.png" channel-number="" group-title="SPORTS",Golf Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
