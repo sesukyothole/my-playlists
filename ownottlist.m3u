@@ -637,6 +637,34 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png?worldtv2 " group-title="", Discovery H&H
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYHOMEANDHEALTHHD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/160/160/0/0/46230374071624.png?worldtv2 " group-title="", Discovery TLC
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42ca82249b49382dd7156dd18a292e8c:7c26bb855d762211182e7eac31376aee
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TLCHD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/160/160/0/0/2118831607492.png?worldtv2 " group-title="", Discovery Turbo
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERYTURBOHD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/160/160/0/0/24981309071389.png?worldtv2 " group-title="", Discovery World
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9f289f4bad2b970deb5b9d56acb84a:8f920a61965245ffac8bb0c698845ff5
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISCOVERYWORLDHD/default.mpd
+
+
+
+
+
 
 
 
@@ -1696,6 +1724,12 @@ https://dash3.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://www.antik.sk/assets/img/channels/02b70e46c1fa0c211b4ab067aac32673.svg" group-title="XBiGBoY",Reality Kings TV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_reality_tv/playlist_cbcs.mpd
 
 
 
