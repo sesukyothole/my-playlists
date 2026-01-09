@@ -1556,19 +1556,21 @@ https://hide.skygoplus.workers.dev/babes-tv-18.m3u8
 #EXTINF:-1 tvg-id="Erox.HD.sk" tvg-name="Erox HD" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/erox-hd.png" video-track="1024x576" group-title="XBiGBoY",Erox
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Eroxxx.HD.sk" tvg-name="Eroxxx HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/eroxxx.png" video-track="1024x576" group-title="XBiGBoY",Eroxxx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Dorcel.TV.cz" tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1280px-Dorcel_TV.svg.png" video-track="1024x576" group-title="XBiGBoY",Dorcel
-#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
 
