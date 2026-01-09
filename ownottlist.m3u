@@ -1285,7 +1285,7 @@ http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 2
 https://webhop.live:443/live/juno123/juno123/1010.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82QvHTH/ar-nba-tv.png" group-title="SPORTS", NBA TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82QvHTH/ar-nba-tv.png" group-title="", NBA TV 3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5cd47bba986b233d3731297cb62fdf9:0d067e22a727ae9f264478f5c2ed903a
