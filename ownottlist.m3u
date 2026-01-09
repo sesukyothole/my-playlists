@@ -1553,6 +1553,19 @@ https://hide.skygoplus.workers.dev/babes-tv-18.m3u8
 #EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="XBiGBoY",Babes TV 3
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 
+#EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="XBiGBoY",Babes TV 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Pure.Babes.hr" tvg-name="Pure Babes" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/babes-pure-tv.png" video-track="1024x576" group-title="XBiGBoY",Babes TV 5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/6864282461d56_LIVE.jpg" group-title="XBiGBoY",Miami TV Live
 #EXTVLCOPT:http-origin=https://miamitv.com
@@ -1604,6 +1617,7 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:95304/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://i.imgur.com/Fc9AdGR_d.png" video-track="1024x576" group-title="XBiGBoY",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Erox.HD.sk" tvg-name="Erox HD" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/erox-hd.png" video-track="1024x576" group-title="XBiGBoY",Erox
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
@@ -1664,18 +1678,6 @@ https://dash3.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="XBiGBoY",Babes TV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id="Pure.Babes.hr" tvg-name="Pure Babes" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/babes-pure-tv.png" video-track="1024x576" group-title="XBiGBoY",Pure Babes
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Desire.TV.cz" tvg-name="Desire TV" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" video-track="1024x576" group-title="XBiGBoY",Desire TV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
