@@ -1289,6 +1289,9 @@ https://nog-live1-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 3
+http://portal.best-tv.me:80/58c44dc06835/b47edf32be/616097
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="SPORTS", PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
