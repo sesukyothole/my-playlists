@@ -155,6 +155,9 @@ https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png",Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Motor Trend" tvg-logo="",Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="PawnStars" tvg-logo="https://i.imgur.com/XVcysi9.png",PawnStars
 https://d1a92tedfmwyf8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4951em36zty6h/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US300003S3
 
@@ -203,6 +206,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelengl
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" group-title="REALITY SHOWS" tvg-name="Duck Dynasty" tvg-logo="https://i.imgur.com/3XCB8cQ.png",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UndercoverBossGlobal.us@UK" group-title="REALITY SHOWS" tvg-name="" tvg-logo="", Undercover Boss
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD" group-title="REALITY SHOWS" tvg-name="" tvg-logo="",Strongman Champions League
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" group-title="REALITY SHOWS" tvg-name="" tvg-logo="",Just For Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk@SD"group-title="REALITY SHOWS" tvg-name="" tvg-logo="",Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png",Mythbusters
 https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
@@ -1292,6 +1306,9 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/nba/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 3
 http://portal.best-tv.me:80/58c44dc06835/b47edf32be/616097
 
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 4
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="SPORTS", PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1425,8 +1442,17 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="Tennis+" tvg-name="Tennis+" tvg-logo="" group-title="SPORTS",Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV 1
 https://d3k3xxewhm1my2.cloudfront.net/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV 2
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV 3
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV 4
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
 
 #EXTINF:-1 tvg-id="Trace Sports Stars" tvg-name="Trace Sports Stars" tvg-logo="" group-title="SPORTS",Trace Sports Stars
 https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist1080P.m3u8
