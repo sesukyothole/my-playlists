@@ -149,14 +149,23 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png",Torque
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque
 https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png",Top Gear
-https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque
+https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetworks_torque_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Motor Trend" tvg-logo="",Motor Trend
-http://104.255.88.155/motortrend/index.m3u8
+#EXTINF:-1  tvg-id="" group-title="REALITY SHOWS" tvg-name="Deal Zone" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/DEALZON/large_white.png", Deal Zone by History
+https://ffb62e3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RlYWxab25lX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers
+https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=905e44e3-2666-11f0-9316-22c362168422
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers
+https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f0c4128f-a097-11f0-913a-dacff2be3bc2
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Highway Thru Hell" tvg-logo="https://i.imgur.com/HCaAWXB.png",Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="PawnStars" tvg-logo="https://i.imgur.com/XVcysi9.png",PawnStars
 https://d1a92tedfmwyf8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4951em36zty6h/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US300003S3
@@ -166,6 +175,46 @@ https://d3179nikh8q8vc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Forged In Fire" tvg-logo="https://i.imgur.com/Z7j7CNP.png",Forged In Fire
 https://ddv0yw1y47imm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xrn8m6ucj16/v1/aenetworks_forgedinfire_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD2700014QW
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg", Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg", Ice Road Truckers
+https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetworks_iceroadtruckers_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png",Ax Men
+https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png",Ax Men
+https://aenetworks.global.transmit.live/hls/68b761618762b0c1ea8af17e/v1/aenetworks_axmen_1/lg_us/latest/main/hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/modern-marvels-2.jpg",Modern Marvels presented by History
+https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/XTREME/large_white.png", Xtreme Outdoor Presented By History
+https://787fc879.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2tpbGxzQW5kVGhyaWxsc19ITFM/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzIzOTY3Mjg1NH0
+
+
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/S8FF28E.png",History
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
+
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
+https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
+
+
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png", The Dog Whisperer with Caesar Millan
+https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=438c0921-ab98-11f0-b7bf-ca68e8adfd6b
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Motor Trend" tvg-logo="",Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/pLVhcGV.png",Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Family Feud" tvg-logo="https://i.imgur.com/NHM6AOe.png",Family Feud
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991232
@@ -227,9 +276,6 @@ https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Survivor" tvg-logo="https://i.imgur.com/RgQzgwm.png",Survivor 2
 https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Highway Thru Hell" tvg-logo="https://i.imgur.com/HCaAWXB.png",Highway Thru Hell
-https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="The Biggest Loser" tvg-logo="https://i.imgur.com/YrKNJaT.png",The Biggest Loser
 https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
 
@@ -263,6 +309,8 @@ https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Antiques Road Trip" tvg-logo="https://i.imgur.com/kkm7VqV.png",Antiques Road Trip 2
 https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png", Ink Master
+https://stitcher.pluto.tv/stitch/hls/channel/655f2d713944b60008bc7e90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=625fa332-62a5-11f0-9119-66310c28b14e
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Come Dine With Me" tvg-logo="https://i.imgur.com/FGpda9j.png",Come Dine With Me
 https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
@@ -276,21 +324,6 @@ https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
     
-#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/S8FF28E.png",History
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
-
-#EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
-https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg",Ice Road Truckers
-https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/modern-marvels-2.jpg",Modern Marvels presented by History
-https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-512x512-square.png" group-title="REALITY SHOWS", Nitro TV
 https://jmp2.uk/str-5730.m3u8
@@ -301,7 +334,7 @@ https://jmp2.uk/str-5726.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/31/1722458403rVipSpep8n-512x512-square.png" group-title="REALITY SHOWS", SPEED SPORT 1
 https://jmp2.uk/str-6424.m3u8
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="REALITY SHOWS",Automotions
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="REALITY SHOWS", Automotions
 https://jmp2.uk/str-5721.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="REALITY SHOWS",MotorTrend FAST TV
@@ -331,7 +364,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="REALITY SHOWS" tvg-logo="https://a.jsrdn.com/hls/23181/crime-and-evidence/logo_20250818_194230_68.png", Crime & Evidence
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crime-and-evidence/video.m3u8
 
-
+#EXTINF:-1 group-title="REALITY SHOWS" tvg-logo="https://image.xumo.com/v1/channels/channel/99951156/168x168.png?type=color_onBlack", Home with Family Handyman
+https://dbrb49pjoymg4.cloudfront.net/10001/99951156/hls/playlist.m3u8?ads.xumo_channelId=99951156&ads._fw_ifa_type=&ads._fw_did=ca205175-40f9-46aa-9855-7842a0772faa&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=TrustedMediaAtHomeWithFamilyHandyman&ads.csid=xumo_web_TrustedMediaAtHomeWithFamilyHandyman_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3814&ads.xumo_contentName=TrustedMediaAtHomeWithFamilyHandyman&ads.xumo_providerId=3814&ads.xumo_providerName=TrustedMediaAtHomeWithFamilyHandyman&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951156&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 
 
@@ -369,8 +403,6 @@ https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="Adventure Earth" tvg-logo="https://i.imgur.com/d9y2wXp.png",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png",Ax Men
-https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cops.us@SD" group-title="DOCUMENTARY" tvg-name="Cops" tvg-logo="https://i.imgur.com/iSNvZAW.png",Cops
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -393,11 +425,11 @@ http://supersonictv.live:8080/611366/682256/22125
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/combat-war.jpg",Combat War Channel
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885558/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885558
 
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/alien-nation.jpg",Alien Nation
-https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="DOCUMENTARY" tvg-name=""tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/truehistory.jpg",True History
 https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/unxplainedzone.jpg", UnXplained Zone
+https://2fb56834.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.png" group-title="DOCUMENTARY",Discovery Asia
 #EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
@@ -470,7 +502,8 @@ https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.
 https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" group-title="" tvg-name="" tvg-logo="", One Piece
+https://stitcher.pluto.tv/stitch/hls/channel/62e94ec74823db0007277a8f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=438c0921-ab98-11f0-b7bf-ca68e8adfd6b
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-name="" tvg-logo="", AnimeX
 https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8
@@ -1319,6 +1352,9 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 5
 https://tvpass.org/live/NBATV/hd
 
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 6
+http://linkapprota1.store:8080/j032z51h/gjmxxi1z/280057
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="SPORTS", PBA RUSH
@@ -1595,9 +1631,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/661827ffe8fba800086b217d/master.m3u
 #EXTINF:-1  tvg-name="" tvg-id="6675b8ccca74680008563c24" tvg-logo="https://images.pluto.tv/channels/6675b8ccca74680008563c24/colorLogoPNG.png" group-title="SPORTS",Speed Sport 1
 https://stitcher.pluto.tv/stitch/hls/channel/6675b8ccca74680008563c24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f398d8d2-22fe-11f0-b2f9-2abca397093b
 
+
+
 #EXTINF:-1 tvg-id="99951207" tvg-name="Fifth Gear" tvg-logo="https://i.postimg.cc/d0jJpJtY/Fifth-Gear.png" group-title="SPORTS",Fifth Gear
 https://live-content.xumo.com/3867/content/XM06I6C90IE2BY/24889763/master.m3u8
-
 
 #EXTINF:-1 tvg-id="99991325" tvg-name="Motorvision" tvg-logo="https://i.postimg.cc/YqHbqktV/Motor-Vision.png" group-title="SPORTS",Motorvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?includeAssetTags=true&ads.xumo_channelId=99991325&ads._fw_ifa_type=&ads._fw_did=60b12ba6-6768-46a9-92d2-14cdf05db208&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Motorvision&ads.csid=xumo_web_Motorvision_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads._fw_deviceMake=GitHubAction&ads._fw_devi
@@ -1616,6 +1653,9 @@ https://2535b897.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 
 #EXTINF:-1 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png" group-title="SPORTS",MotorRacing
 https://dcicealhbcymw.cloudfront.net/strm/link/motorracing.m3u8
+
+
+
 
 #EXTINF:-1 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/logo_20250122_232635_70.png" group-title="SPORTS",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/ts-us-w2-n1/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb563d1c7b6c678784cd3978d8f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dae6852db80148b6f4adafb8c2360625f5c98435ee3b24af5fee15c13de6ca7ac494bc62858e68314c9c914ead686469f418f77f14698c7a48b814588afab5df803f17a0c482b6e96847cacc059c4bdf00c60c5217f1044238ccb92fa5d7288464e598a95a1d741f600da9b2ab5566dc16af54e8023c478a206b0f547b4a1bead2b2b5e89f069521794b4faf2915b32b975b5b1fdcf767d94e20d6842bb0bb246273186f89166eea81492a56d82b1662921d09437f8f7d3d1b5c0e7239d21d989f7972d524f116768e70df8d807b428d96be6cf03317f4c50a89d5ad69fab315a0f4a88945bc6071ab0d58686d11a61b90a725bec73974c0c68d83c1e1a8f49a8cc6f38d35260e33439e81623863096d244a7f789b05769e7869d119506eeb1199cf30cbf52352b44d9b62d0d414a2bd3bf3f403629c011a987cbb1204459bbaec9b391056f056c14545f88b1bf27c1f3aa591c12d21d23707d03189201c260cb0c4c7247a379fe983b47b53270779ecd555c5e7fd8cca18f86dbcf36df15bbcbf42a3b295677ab69704c00d2b29e17e82b746e6854960e675acf643023bacfa68ff1816addd263ae28706600af91471b71381d620e88de7bdf51f5a11cad92c45bbe89e77671b371845b67f4bedd68eba385c2590693af7a186c92a142af101ac2158e54e2bf71dca31b0510354546d6b15def2dd7b5f69679ca62ff164d29bc36e3c5b9cebc1457e38204203b0642347e46732b03aad3d077721c86d90ec77fb7bc0fd12839323b5490810f5092ed790895310c07cfc599d8fd935a4abf049f74cd734db55f0239dec53c98e5d897a9d3370d5aacdccc4dbfb2c68dcdc2b84c14633d65d5900a0726887c8fe673e0a90e32ec8685f1df60834ae620a985a227eb32d2acd66bffc8cdaeab2d6c342b56f8d2b9ff04d2af0541be49da5924169bf8829e01cfecf120229b378a84037de0376d51c0bdfe76ab41d9b7635b8de0685dc63a20cfe48d4076ac3ef2733727c8a7ed6f3fdc8d0496548c9ae50b5ffe2174c34a5175a36ee997b07b7bf2f0010152e40500c07b8ddedc1c4b73ad9b6822661e1c1a1bc553103ff12e6fb718bbefe7fd652f9a0e980c26bc75aa8e44b2b209fcf0c5e1e2e63977fdb56666f30bf445bd26d8d08cfd11a06778ba6de37408cad3d3fdc9e0f4a3c0cd1f5d1dcc0df160c9728988ae947b140f08a265417938f30fd718457281d05a8a954c6f8fd0fa4fe60853490b07389576d4fb144c566d8ee372efb9000059446aa8a973b617a70b0e945e64b21e6a311e135746ad85c41ecd5bbb1dd4dd7822b4d2edd14c8dad3bcdd28ee3b34e00d62043242bc0e6d6cb912b5afd9099df347891d473b0026630248ca8cc2d5790957672a8f7dc27eaec37d642496017d388bd7cc97a943be95a7cd535dffa4e79c482120022953ae4ac1920f4079d70769616fd7c79d00a7755410e8669c760097b309118e597b15e265ff06fb6546d3fe5d0ec97a038531a1d24674c0b7d1586374cb80c2d56ea0b36a7cd9ec39cedcb5c7e6da213ec8ca1d1e24ebba49d190002fa43d6beddb4ce9ed3c0447828d9422bb70ead6672f7c1097ff21cf4e2ef0c65d9e12ae72798d3c1666457c29926680c3a52c0e68d35d63dc49d3574e594a33e95a59a564608c1d4952ce120b6504b3228b31b31681f40938dcd2e947c1481de91e498be2cc48df108a69e5030b29ed6159bdc8900e465377d24105e699272880b4f1f5dbb6d8e434313d92a4ebe7f1d56c8bbd835f09e1a7e607301e499e7123a778678092b284494d05bf79d8e647d3f1e5513a5d464b00a5cf97a5e5b83e465b7c9e31dd04888c5b3e421681a27609a257a5875d6213c0159bda5f6d305409c638d5669c0dca290191b56c0c906ce9a2e25e4ecd322fe7e8553d96dff2c470757c52e1b5a9336244974290d38dc164195f6c3c3fd77c80dd82834db37f31f0a85c65c5bc6ed559af77ae21962a12bb49183b100983758ffbbc0fa404b3497282bba91e7fd1f09d1a35950807418d4fbf2cccfc8b817cbb1229ace1ace2ab4baa71c32b1193b37/139/1920x1080_5058864/index.m3u8
