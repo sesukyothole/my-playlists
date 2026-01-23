@@ -149,20 +149,26 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque 1
 https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque 2
 https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetworks_torque_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="REALITY SHOWS" tvg-name="Deal Zone" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/DEALZON/large_white.png", Deal Zone by History
 https://ffb62e3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RlYWxab25lX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers 1
 https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=905e44e3-2666-11f0-9316-22c362168422
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers 2
 https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f0c4128f-a097-11f0-913a-dacff2be3bc2
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers 3
+https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=438c0921-ab98-11f0-b7bf-ca68e8adfd6b
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png", American Pickers 4
+https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccd84ff9-b070-11f0-a92c-0a352f4ace55
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Highway Thru Hell" tvg-logo="https://i.imgur.com/HCaAWXB.png",Highway Thru Hell
 https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
@@ -176,20 +182,20 @@ https://d3179nikh8q8vc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Forged In Fire" tvg-logo="https://i.imgur.com/Z7j7CNP.png",Forged In Fire
 https://ddv0yw1y47imm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xrn8m6ucj16/v1/aenetworks_forgedinfire_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD2700014QW
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg", Ice Road Truckers
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg", Ice Road Truckers 1
 https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg", Ice Road Truckers
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/iceroadtruckers.jpg", Ice Road Truckers 2
 https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetworks_iceroadtruckers_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png",Ax Men
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png", Ax Men 1
 https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png",Ax Men
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Ax Men" tvg-logo="https://i.imgur.com/3vlxbgn.png", Ax Men 2
 https://aenetworks.global.transmit.live/hls/68b761618762b0c1ea8af17e/v1/aenetworks_axmen_1/lg_us/latest/main/hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/modern-marvels-2.jpg",Modern Marvels presented by History
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/modern-marvels-2.jpg", Modern Marvels presented by History
 https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/XTREME/large_white.png", Xtreme Outdoor Presented By History
@@ -206,9 +212,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 #EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://i.imgur.com/2nCTCkH.png",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
 
-
 #EXTINF:-1 group-title="REALITY SHOWS" tvg-id="" tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png", The Dog Whisperer with Caesar Millan
-https://stitcher.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=438c0921-ab98-11f0-b7bf-ca68e8adfd6b
+https://stitcher.pluto.tv/stitch/hls/channel/66289716039f940008cf20a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccd84ff9-b070-11f0-a92c-0a352f4ace55
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Motor Trend" tvg-logo="",Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
@@ -1480,8 +1485,11 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="UFC TV" tvg-name="UFC TV" tvg-logo="" group-title="SPORTS", UFC TV
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS", UFC (USA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7" group-title="SPORTS", UFC (USA)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS", MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tap Sports" tvg-name="Tap Sports" tvg-logo="" group-title="SPORTS",Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
@@ -1500,6 +1508,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV 4
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+
+#EXTINF:-1 tvg-id="67ad38735451dfa36d3d3d1a" tvg-name="67ad38735451dfa36d3d3d1a" tvg-logo="" group-title="SPORTS", GoPro
+https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trace Sports Stars" tvg-name="Trace Sports Stars" tvg-logo="" group-title="SPORTS",Trace Sports Stars
 https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist1080P.m3u8
