@@ -1,0 +1,205 @@
+#EXTM3U
+
+
+=========================================================== Times Play ==========================================================================================================
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Times play",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Times play",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Times play",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+
+================================================================ Indian =======================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Indian",Sony Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" group-title="Indian",Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+
+#EXTINF:-1 group-logo="https://get.perfecttv.net/logo/zeecinema.png" group-title="Indian",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=zeecinema
+
+
+#EXTINF:-1 group-logo="https://get.perfecttv.net/logo/colorhindi.png" group-title="Indian",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=colorhindi
+
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg" group-title="Indian",Sun Neo HD Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Indian",Hare Krsna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+
+#EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Indian",&flix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
+
+========================================================== Tata Play ==========================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png" group-title="Tata Play",REPUBLIC TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2918958cf7f50dabf4f693e37f94d60:78ec5e5cca4c9e2b77f8ba814452ac61
+https://jiotvpllive.cdn.jio.com/bpk-tv/Green_Chillies_TV_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="1883" tvg-name="Pogo" group-title="Jiostar" tvg-logo="",Pogo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab
+https://stream.kliv.fun/allplus11de/jtv/manifest.mpd?id=1883
+
+#EXTINF:-1 tvg-id="1906" tvg-name="Times Now Navbharat" group-title="Jiostar" tvg-logo="",Times Now Navbharat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+https://jiotvpllive.cdn.jio.com/bpk-tv/Times_Now_Navbharat_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",ET Now Swadesh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bf760c711215ae78af2d7727ca8fa18:7e1511f49ca513f64b34f66cf574a499
+https://jiotvpllive.cdn.jio.com/bpk-tv/ET_Now_Swadesh_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Jio Cricket English HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26f47e5e485b544287e88e3cb7237319:4fdd8958908adee8ce158b739d790ef6
+https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Cricket_English_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",The Q Kahaniyan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6df7c5d495985867913a26342c00ac91:c262295c24f5553876f9ea40c381355f
+https://jiotvpllive.cdn.jio.com/bpk-tv/The_Q_Kahaniyan_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",MH1 Dil Se
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=716450e7a3f0522db29e59c636b6d0ac:ccd8e32ba5c60afe91e634b9f39efcce
+https://jiotvpllive.cdn.jio.com/bpk-tv/MH1_DilSe_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" group-title="Jiostar" tvg-logo="",Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca5769c7002a5baaa1a7213fb5b702f1:ca9b74278d4ab34a04dbeef64bc5e6dd
+https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_TV_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Fashion India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dec8b38196f0508cb8a5f374e1d20af3:a5712394e7d1270273b98d7e29d5b78a
+https://jiotvpllive.cdn.jio.com/bpk-tv/Fashion_India_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Amritwani
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dec28af0cd2568a84036f4cb1609114:4ae341097075b8afef4a4b7adf330274
+https://jiotvpllive.cdn.jio.com/bpk-tv/Amritwani_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Dil Se
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=733eb4ec11925699b824ec48591c746e:51c0cdb57e7a1179e39c000285fc7d0b
+https://jiotvpllive.cdn.jio.com/bpk-tv/Dil_Se_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Pop Pataka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b749eb4e22915c8790e7b0e4039ed189:630d9fb4a75f8884fe6097b2a62a0d3f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Pop_Pataka_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Dhamaal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63fff67e53565e429748e95229f2c129:cc72cff549464fe605d62825b4e71244
+https://jiotvpllive.cdn.jio.com/bpk-tv/Dhamaal_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Adipolli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d236f8f390de58fab90ad41c24faa62f:bf679bd27ceb72f4467527cc4de56b81
+https://jiotvpllive.cdn.jio.com/bpk-tv/Adipolli_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Bollywood Hungama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a529014ba1a53bdac8c0bec19e6fbf2:cc5162d7ae3197bc0ed70f1d652aa210
+https://jiotvpllive.cdn.jio.com/bpk-tv/Bollywood_Hungama_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Bhakti Sagar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=816526e807f35770a19de4ee66943b59:26782f9afea1609aa7732cb1c1422535
+https://jiotvpllive.cdn.jio.com/bpk-tv/Bhakti_Sagar_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Nazraana
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1dc06efdd65a66a6640e942f633337:b16ed77032cbab20f04b13363d038e3d
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nazraana_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jiostar" tvg-logo="",Artist Aloud
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fd5f663bba152b5912af0fd024ff26e:eafd41e3032ab6a375732babddaebf2c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Artist_Aloud_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="2252" group-title="Jiostar" tvg-logo="",Merchant Records
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d72ceba2f46a5a52a00c70d6e7c62ca5:6435150f6576c2db45e06e4c394b6f72
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Merchant_Records_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Gangaur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1183753c77e25ac797a57cac4199af74:3fba059f9547decd204a84f1bd35b03e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Gangaur_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Shemaroo Umang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ba27f8e3a0350aa9bc40bb7ae07c83a:de1036911f7232a8f58d18bf6f21820b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Umang_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Bharat 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f27125d5335f15a0fced48e97519fa:9532ae2de566fca64f7687a577f01a2c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_24_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Jio Prime HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ae568e76fd05ad8a1c300a2f155a694:cf44d29cd01253c82987aa254c339c8f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Prime_HD_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Q GameX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bde7c0f4ae275496bac08233be356c3e:18014b209c29d70f37ab933f7683b359
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Q_GameX_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Jiostar" tvg-logo="",Jio Specials HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Specials_HD_BTS/output/index.mpd
