@@ -149,11 +149,17 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque 1
 https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque 2
+https://5243c636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1RvcnF1ZV9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="REALITY SHOWS" tvg-name="Torque" tvg-logo="https://i.imgur.com/U3aH7lC.png", Torque 3
 https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetworks_torque_1/lg_us/latest/main/hls/playlist.m3u8
+
 
 #EXTINF:-1  tvg-id="" group-title="REALITY SHOWS" tvg-name="Deal Zone" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/DEALZON/large_white.png", Deal Zone by History
 https://ffb62e3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RlYWxab25lX0hMUw/playlist.m3u8
