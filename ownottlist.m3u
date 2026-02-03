@@ -1360,6 +1360,11 @@ https://tvpass.org/live/NBATV/hd
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS", NBA TV 6
 http://linkapprota1.store:8080/j032z51h/gjmxxi1z/280057
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkyQOlw.png" group-title="SPORTS",NBA TV 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="SPORTS", PBA RUSH
