@@ -5,17 +5,26 @@
 
 # TAP MEDIA
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LzNfM9v/comicu.png" group-title="TAP MEDIA", COMIC U
-rtmp://210.4.112.99:1935/tapdmv/comicu
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2024/11/28100102-dybl0a9csymbuvod.png" group-title="TAP MEDIA", COMIC U
+http://136.239.240.67:8081/tap/program1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mS7Y0m4/edgesports.png" group-title="TAP MEDIA", EDGE SPORTS
-rtmp://210.4.112.99:1935/tapdmv/edgesports
+#EXTINF:-1 tvg-logo="" group-title="TAP MEDIA", EDGE SPORTS
+http://136.239.240.67:8081/tap/program3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2025/10/225-1.webp" group-title="TAP MEDIA", TAPSILOG
 rtmp://210.4.112.99:1935/tapdmv/TVN_movies
 
+#EXTINF:-1 tvg-logo="" group-title="TAP MEDIA", REAL BLAST
+http://136.239.240.67:8081/tap/program5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TAP MEDIA", BLAST MOVIES
+http://136.239.240.67:8081/tap/program4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tapdmv.com/content/images/2024/11/image.png" group-title="TAP MEDIA", BLAST SPORTS
 rtmp://210.4.112.99:1935/tapdmv/blastSports
+
+#EXTINF:-1 tvg-logo="" group-title="TAP MEDIA", UFC TV
+http://136.239.240.67:8081/tap/program6/playlist.m3u8
 
 
 # LOCAL CH
